@@ -1,8 +1,8 @@
-# Welcome to this week in Sui (#1)
+# Welcome to the Sui Developer Newsletter (#1)
 
 _Nov 15, 2023_
 
-Welcome to the first Sui developer newsletter. Sui is an innovative, decentralized Layer 1 blockchain that redefines asset ownership, and simplifies the smart contract development process with Move, a user-friendly programming language that’s both safe and expressive. Below you'll find a collection of all things Sui that occurred recently, organized in structured way for easier consumption. Want something mentioned? Tag us at @SuiFoundation on Twitter or @SuiFoundation on mastodon.social, or find us on Discord.
+Welcome to the Sui developer newsletter. Sui is an innovative, decentralized Layer 1 blockchain that redefines asset ownership, and simplifies the smart contract development process with Move, a user-friendly programming language that’s both safe and expressive. Below you'll find a collection of all things Sui that occurred recently, organized in structured way for easier consumption. Want something mentioned? Tag us at @SuiFoundation on Twitter/X or @SuiFoundation on mastodon.social, or find us on Discord.
 
 ## Community
 
@@ -28,14 +28,18 @@ Welcome to the first Sui developer newsletter. Sui is an innovative, decentraliz
 
 **Tutorials/Walkthroughs**
 
-## Move Language
+## Ecosystem
+
+### Cryptography
+
+### Move Language
 
 - [Move method syntax](https://github.com/MystenLabs/sui/issues/14063)
 - [Move Edition 2024: New Language Features!](https://github.com/MystenLabs/sui/issues/14062)
 - [Move linters](https://blog.sui.io/linter-compile-warnings-update/)
 - Source code verifier
 
-## Sui DevX
+### Sui DevX
 
 - Upcoming Graphql service (design doc)
 - CLI keytool and client output's are now formatted as tables
@@ -44,18 +48,19 @@ Welcome to the first Sui developer newsletter. Sui is an innovative, decentraliz
 - Sui documentation just got better. Check it out here.
 - Deterministic builds
 
-## Tools
+### Tools
 
 - [Gas profiler tool is now available in the Sui CLI. Use this tool to get an understanding of your gas cost]()
 - [Replay tool is now available in the Sui CLI. It allows you to execute an event locally]()
 - [dAppkit: an all-in-one solution for developing React applications and decentralized applications (dApps) on Sui](https://blog.sui.io/react-apps-dapp-kit/)
+- [Sui MultiSig Toolkit for offline signing of transactions](https://multisig-toolkit.vercel.app/offline-signer)
 
-## Smart Contracts
+### Smart Contracts
 
 - [Deepbook]()
 - Example?
 
-## Sui Improvement Proposals (SIPs) - All Open SIPs
+### Sui Improvement Proposals (SIPs) - All Open SIPs
 
 Below is a list of all the open proposals as of now. Consider providing some input through the GitHub issues.
 
@@ -71,7 +76,11 @@ Below is a list of all the open proposals as of now. Consider providing some inp
 
 ## Upcoming Events
 
-## Development - Merged Pull Requests
+## Development
+
+### Releases and Notes
+
+###  Merged Pull Requests
 
 567 pull requests [were merged in October](https://github.com/search?q=is%3Apr+org%3Amystenlabs+is%3Amerged+merged%3A2023-10-01..2023-10-18).
 
