@@ -1,0 +1,1 @@
+gh pr list --repo sui-foundation/sips -L 5000 --state open --json title --json url | jq -r '.[] | "* [" + .title + "]" + "(" + .url + ")" ' | sort
