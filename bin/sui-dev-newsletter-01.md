@@ -12,17 +12,18 @@ Welcome to the Sui developer newsletter. Sui is an innovative, decentralized Lay
 
 **Blog Posts**
 
-- [Understanding Staking and SUI’s Emission Schedule](https://blog.sui.io/staking-sui-circulating-supply/)
-- [Sui Enables What’s Next in Games](https://blog.sui.io/whats-next-in-games/)
+- [All About Account Abstraction](https://blog.sui.io/account-abstraction-explained/)
+- [Build React Apps on Sui with dApp Kit](https://blog.sui.io/react-apps-dapp-kit/)
 - [Delivering Fair Gas Fees Through Resource Usage Metering](https://blog.sui.io/computation-costs-gas-fee-model/)
 - [Fifteen Projects Awarded Over $1M in Grants](https://blog.sui.io/1m-grants-awarded-october/)
-- [Build React Apps on Sui with dApp Kit](https://blog.sui.io/react-apps-dapp-kit/)
-- [Sui Linters and Warnings Update Increases Coder Velocity](https://blog.sui.io/linter-compile-warnings-update/)
-- [zkLogin Demystified: Exploring Sui's Cutting-Edge Authentication](https://blog.sui.io/zklogin-deep-dive/)
-- [Learning Sui is Just a Module Away With EasyA](https://blog.sui.io/easya-mobile-courseware/)
-- [Insecure Code Delays Mass Web3 Adoption](https://blog.sui.io/insecure-code-delays-adoption/)
-- [All About Account Abstraction](https://blog.sui.io/account-abstraction-explained/)
 - [Hackathon Winners Propel Liquid Staking on Sui](https://blog.sui.io/liquid-staking-hackathon-winners/)
+- [Insecure Code Delays Mass Web3 Adoption](https://blog.sui.io/insecure-code-delays-adoption/)
+- [Learning Sui is Just a Module Away With EasyA](https://blog.sui.io/easya-mobile-courseware/)
+- [Sui Becomes the Top Platform for Defi Growth](https://blog.sui.io/tvl-volume-growth/)
+- [Sui Enables What’s Next in Games](https://blog.sui.io/whats-next-in-games/)
+- [Sui Linters and Warnings Update Increases Coder Velocity](https://blog.sui.io/linter-compile-warnings-update/)
+- [Understanding Staking and SUI’s Emission Schedule](https://blog.sui.io/staking-sui-circulating-supply/)
+- [zkLogin Demystified: Exploring Sui's Cutting-Edge Authentication](https://blog.sui.io/zklogin-deep-dive/)
 
 **Presentations**
 
