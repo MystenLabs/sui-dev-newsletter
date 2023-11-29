@@ -81,7 +81,7 @@ Many pull requests were merged in November. Check them out on [GitHub](https://g
 
 ### Releases
 
-Only one release is scheduled for the rest of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [latest releases](https://github.com/MystenLabs/sui/releases).
+Only one release, v1.15.0, is scheduled for the rest of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [latest releases](https://github.com/MystenLabs/sui/releases).
 
 **Feature your project in the newsletter**
 If you would like to share your project in this newsletter with the Sui community, send us an email at dev-newsletter@sui.io.
