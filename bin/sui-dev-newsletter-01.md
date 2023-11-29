@@ -2,7 +2,7 @@
 
 _Dec 01, 2023_
 
-The Sui developer community and core team have been very busy in the ~7 months since Sui mainnet launch. To keep track of everyhing going on, we're introducing a cuarated developer newsletter for easier consumption.
+The Sui developer community and core team have been very busy in the ~7 months since Sui mainnet launch. To keep track of everyhing going on, we're introducing a curated developer newsletter for easier consumption.
 
 The headline of this first edition is zkLogin--a cryptography research breakthrough that enables the first native integration of sending transactions from a web2 account. Tihs enables Sui developers to build consumer-grade experiences that break free from the friction of installing a wallet and managing a seed phrase.
 
@@ -94,4 +94,5 @@ Many pull requests were merged in November. Check them out on [GitHub](https://g
 Only one release, v1.15.0, is scheduled for the rest of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [latest releases](https://github.com/MystenLabs/sui/releases).
 
 **Feature your project in the newsletter**
+
 If you would like to share your project in this newsletter with the Sui community, send us an email at dev-newsletter@sui.io.
