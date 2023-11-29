@@ -6,7 +6,7 @@ The Sui developer community and core team have been very busy in the ~7 months s
 
 The headline of this first edition is zkLogin--a cryptography research breakthrough that enables the first native integration of sending transactions from a web2 account. Tihs enables Sui developers to build consumer-grade experiences that break free from the friction of installing a wallet and managing a seed phrase.
 
-The community excitement around zkLogin and the pace of adoption has been exciting. In the 4.5 months since zkLogin launched, we've seen a wealth of app/wallet integrations, demos and supporting tools. You'll find some our our favorites in the newsletter.
+The community excitement around zkLogin and the pace of adoption has been exciting. In the 4.5 months since zkLogin launched, we've seen a wealth of app/wallet integrations, demos and supporting tools. You'll find some of our favorites in the newsletter.
 
 The other theme worth highlighting are the advancements to Move. Since 2021, we've beeen advancing the foundations of Move by introducing the object data model, dynamic fields, and programmable transaction blocks. Now, we're building a polished developer experience on top of these strong foundations with source language advances like enums and method syntax, as well as tooling improvements like comprehensive linters and verifies source in the explorer. The newsletter has details on all of these, as well as the full Move 2024 roadmap.
 
@@ -74,7 +74,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
-Below is a list of all the open proposals as of now. Consider providing your input directly in the GitHub issue.
+Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
 
 - [Add Poseidon hash SIP](https://github.com/sui-foundation/sips/pull/12)
 - [Add WebAuthn SIP](https://github.com/sui-foundation/sips/pull/9)
@@ -90,8 +90,4 @@ Many pull requests were merged in November. Check them out on [GitHub](https://g
 
 ### Releases
 
-Only one release, v1.15.0, is scheduled for the rest of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [latest releases](https://github.com/MystenLabs/sui/releases).
-
-**Feature your project in the newsletter**
-
-If you would like to share your project in this newsletter with the Sui community, send us an email at dev-newsletter@sui.io.
+Only one release, v1.15.0, is scheduled for the rest of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [most recent releases](https://github.com/MystenLabs/sui/releases).
