@@ -49,7 +49,6 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Move method syntax](https://github.com/MystenLabs/sui/issues/14063)
 - [Move Edition 2024: New Language Features!](https://github.com/MystenLabs/sui/issues/14062)
 - [Move linters](https://blog.sui.io/linter-compile-warnings-update/)
-- [Shared Object Deletion is available on Devnet](https://github.com/MystenLabs/sui/pull/12623)
 - [Transfer to Object is available on Devnet and soon on Testnet](https://docs.sui.io/concepts/dynamic-fields/transfers/transfer-to-object)
 - [Closed Loop Token is now available](https://docs.sui.io/standards/closed-loop-token)
 
