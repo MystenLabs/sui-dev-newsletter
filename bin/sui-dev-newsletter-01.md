@@ -50,7 +50,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Move Edition 2024: New Language Features!](https://github.com/MystenLabs/sui/issues/14062)
 - [Move linters](https://blog.sui.io/linter-compile-warnings-update/)
 - [Transfer to Object is available on Devnet and soon on Testnet](https://docs.sui.io/concepts/dynamic-fields/transfers/transfer-to-object)
-- [Closed Loop Token is now available](https://docs.sui.io/standards/closed-loop-token)
+- [Closed-Loop Token is now available](https://docs.sui.io/standards/closed-loop-token)
 
 ### Development Experience on Sui
 
