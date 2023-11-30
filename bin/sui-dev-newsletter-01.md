@@ -4,7 +4,7 @@ _Dec 01, 2023_
 
 The Sui developer community and core team have been very busy in the last seven months since Sui mainnet launch. To keep track of everyhing going on, we're introducing a curated developer newsletter for easier consumption.
 
-The headline of this first edition is zkLogin--a cryptography research breakthrough that enables the first native integration of sending transactions from a web2 account. Tihs enables Sui developers to build consumer-grade experiences that break free from the friction of installing a wallet and managing a seed phrase.
+The headline of this first edition is [zkLogin](https://docs.sui.io/concepts/cryptography/zklogin) -- a cryptography research breakthrough that enables the first native integration of sending transactions from a web2 account. Tihs enables Sui developers to build consumer-grade experiences that break free from the friction of installing a wallet and managing a seed phrase.
 
 The community excitement around zkLogin and the pace of adoption has been exciting. In the two months since zkLogin launched, we've seen a wealth of app/wallet integrations, demos and supporting tools. You'll find some of our favorites in the newsletter.
 
