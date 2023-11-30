@@ -2,11 +2,11 @@
 
 _Dec 01, 2023_
 
-The Sui developer community and core team have been very busy in the ~7 months since Sui mainnet launch. To keep track of everyhing going on, we're introducing a curated developer newsletter for easier consumption.
+The Sui developer community and core team have been very busy in the last seven months since Sui mainnet launch. To keep track of everyhing going on, we're introducing a curated developer newsletter for easier consumption.
 
 The headline of this first edition is zkLogin--a cryptography research breakthrough that enables the first native integration of sending transactions from a web2 account. Tihs enables Sui developers to build consumer-grade experiences that break free from the friction of installing a wallet and managing a seed phrase.
 
-The community excitement around zkLogin and the pace of adoption has been exciting. In the 4.5 months since zkLogin launched, we've seen a wealth of app/wallet integrations, demos and supporting tools. You'll find some of our favorites in the newsletter.
+The community excitement around zkLogin and the pace of adoption has been exciting. In the two months since zkLogin launched, we've seen a wealth of app/wallet integrations, demos and supporting tools. You'll find some of our favorites in the newsletter.
 
 The other theme worth highlighting are the advancements to Move. Since 2021, we've beeen advancing the foundations of Move by introducing the object data model, dynamic fields, and programmable transaction blocks. Now, we're building a polished developer experience on top of these strong foundations with source language advances like enums and method syntax, as well as tooling improvements like comprehensive linters and verifies source in the explorer. The newsletter has details on all of these, as well as the full Move 2024 roadmap.
 
