@@ -10,7 +10,7 @@ The community excitement around zkLogin and the pace of adoption has been exciti
 
 The other theme worth highlighting are the advancements to Move. Since 2021, we've beeen advancing the foundations of Move by introducing the object data model, dynamic fields, and programmable transaction blocks. Now, we're building a polished developer experience on top of these strong foundations with source language advances like enums and method syntax, as well as tooling improvements like comprehensive linters and verifies source in the explorer. The newsletter has details on all of these, as well as the full Move 2024 roadmap.
 
-We're eager for your feedback on what you'd like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our Discord community [Discord](https://discord.gg/sui), or ask on the [developer forums](https://forums.sui.io/).
+We're eager for your feedback on what you'd like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
 - Sam Blackshear, CTO at Mysten Labs and creator of the Move programming language
 
