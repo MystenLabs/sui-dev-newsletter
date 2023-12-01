@@ -59,6 +59,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [A beta version of the upcoming Sui GraphQL RPC service is available](https://forums.sui.io/t/launching-the-beta-graphql-rpc-service/45104)
 - [Sui Bridge, a trustless native bridge leveraging Sui’s security model, is in the works](https://github.com/MystenLabs/sui/issues/14983)
 - [Sui dApp Kit makes it easy to start developing apps on Sui](https://sui-typescript-docs.vercel.app/dapp-kit)
+- [@mysten/create-dapp prompts you thhrough creating a new dApp project](https://sui-typescript-docs.vercel.app/dapp-kit/create-dapp)
 - [Sui Documentation got a major revamp](https://docs.sui.io)
 - [Sui Explorer now supports viewing verified Move source code](https://blog.sui.io/explorer-verified-source-code/)
 - [Sui Weather Oracle was launched](https://blog.sui.io/sui-weather-oracle/)
