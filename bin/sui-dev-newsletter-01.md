@@ -27,12 +27,13 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Delivering Fair Gas Fees Through Resource Usage Metering](https://blog.sui.io/computation-costs-gas-fee-model/)
 - [DM Your SUI with zkSend](https://mystenlabs.com/blog/zksend)
 - [Fifteen Projects Awarded Over $1M in Grants](https://blog.sui.io/1m-grants-awarded-october/)
+- [Formal snapshots (smaller in size than normal snapshots) were released, enabling a node to restore to a canonical state without having to execute all the transactions](https://docs.sui.io/guides/operator/formal-snapshot)
 - [Hackathon Winners Propel Liquid Staking on Sui](https://blog.sui.io/liquid-staking-hackathon-winners/)
 - [Learning Sui is Just a Module Away With EasyA](https://blog.sui.io/easya-mobile-courseware/)
 - [Sui Linters and Warnings Update Increases Coder Velocity](https://blog.sui.io/linter-compile-warnings-update/)
 - [zkLogin Demystified: Exploring Sui's Cutting-Edge Authentication](https://blog.sui.io/zklogin-deep-dive/)
 - [View Verified Move Source Code in Sui Explorer](https://blog.sui.io/explorer-verified-source-code/)
-- [Formal snapshots released, providing a mechanism for a node to restore to a canonical state without having to execute all the transactions. They are much smaller in size than normal snapshots.](https://docs.sui.io/guides/operator/formal-snapshot)
+
 
 **Presentations**
 
@@ -43,7 +44,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Cryptography
 
-- zkLogin has been launched. Find more information about it in the [docs](https://docs.sui.io/concepts/cryptography/zklogin) and in this [presentation](https://docs.sui.io/concepts/cryptography/zklogin).
+- zkLogin has been launched. Find more information about it in the [docs](https://docs.sui.io/concepts/cryptography/zklogin) and in this [presentation](https://www.youtube.com/watch?v=d1V_PMfcFLc)
 
 ### Move on Sui
 
@@ -51,11 +52,12 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Move Edition 2024: New Language Features!](https://github.com/MystenLabs/sui/issues/14062)
 - [Move linters](https://blog.sui.io/linter-compile-warnings-update/)
 - [Transfer to Object is available on Devnet and soon on Testnet](https://docs.sui.io/concepts/dynamic-fields/transfers/transfer-to-object)
-- Closed-Loop Token is now available. Check the [docs](https://docs.sui.io/standards/closed-loop-token) or this [thread](https://twitter.com/themoveguy/status/1730223446380966059).
+- Closed-Loop Token is now available. Check the [docs](https://docs.sui.io/standards/closed-loop-token) or this [thread](https://twitter.com/themoveguy/status/1730223446380966059)
 
 ### Development Experience on Sui
 
 - The `client` and `keytool` commands in the Sui CLI now have formatted output
+- Sui Wallet now supports USDCeth <> SUI swap pair
 - [The Sui CLI can now be installed via homebrew](https://github.com/MystenLabs/homebrew-tap)
 - [A beta version of the upcoming Sui GraphQL RPC service is available](https://forums.sui.io/t/launching-the-beta-graphql-rpc-service/45104)
 - [Sui Bridge, a trustless native bridge leveraging Sui’s security model, is in the works](https://github.com/MystenLabs/sui/issues/14983)
@@ -64,7 +66,6 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Sui Documentation got a major revamp](https://docs.sui.io)
 - [Sui Explorer now supports viewing verified Move source code](https://blog.sui.io/explorer-verified-source-code/)
 - [Sui Weather Oracle was launched](https://blog.sui.io/sui-weather-oracle/)
-- [Sui Wallet now supports USDCeth <> SUI swap pair]().
 
 ### Tools
 
