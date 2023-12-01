@@ -32,6 +32,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 - [Sui Linters and Warnings Update Increases Coder Velocity](https://blog.sui.io/linter-compile-warnings-update/)
 - [zkLogin Demystified: Exploring Sui's Cutting-Edge Authentication](https://blog.sui.io/zklogin-deep-dive/)
 - [View Verified Move Source Code in Sui Explorer](https://blog.sui.io/explorer-verified-source-code/)
+- [Formal snapshots released, providing a mechanism for a node to restore to a canonical state without having to execute all the transactions. They are much smaller in size than normal snapshots.](https://docs.sui.io/guides/operator/formal-snapshot)
 
 **Presentations**
 
