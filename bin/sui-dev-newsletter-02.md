@@ -41,12 +41,11 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Development Experience on Sui
 
-* If you have open source Move code published on Sui mainnet or testnet, and want to see your verified source in explorers, drop a PR here [https://t.co/Cvn2LU12Cz](https://t.co/Cvn2LU12Cz)
-
-* pysui Release 0.50.0 with GraphQL support. Check it out [here](https://pysui.readthedocs.io/en/latest/graphql.html).
+* If you have open source Move code published on Sui mainnet or testnet, and want to see your verified source in the [Sui Explorer](https://suiexplorer.com), drop a PR here [https://t.co/Cvn2LU12Cz](https://t.co/Cvn2LU12Cz)
+* `pysui` has now GraphQL support. Check it out [here](https://pysui.readthedocs.io/en/latest/graphql.html)
 
 ### Tools
-
+* Sui CLI offers new functionality to help replaying a transaction or a checkpoint. Check out `sui client replay-transaction`, `sui client replay-batch`, `sui client replay-checkpoint`.
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
