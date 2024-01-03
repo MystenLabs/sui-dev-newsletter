@@ -45,7 +45,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 * `pysui` has now GraphQL support. Check it out [here](https://pysui.readthedocs.io/en/latest/graphql.html)
 
 ### Tools
-* Sui CLI offers new functionality to help replaying a transaction or a checkpoint. Check out `sui client replay-transaction`, `sui client replay-batch`, `sui client replay-checkpoint`.
+* Sui CLI offers new functionality to replay transactions. Check it out [here](https://docs.sui.io/references/cli/client#replay-a-transaction)
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
