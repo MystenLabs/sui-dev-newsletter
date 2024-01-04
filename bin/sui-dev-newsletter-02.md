@@ -14,6 +14,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 **News**
 
+- SuiFoundation has launched a new version of Sui's [website](https://sui.io)
 - [MoveBit is organizing the MoveCTF 2024 event](https://twitter.com/MoveBit_/status/1739241636050432226)
 
 **Recent Blog & Social Media Posts**
@@ -35,17 +36,15 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ## Development & Ecosystem
 
-### Cryptography
-
-### Move on Sui
-
 ### Development Experience on Sui
 
+* The new Sui developer portal has been launched. Check it out [here](https://sui.io/developers)
 * If you have open source Move code published on Sui mainnet or testnet, and want to see your verified source in the [Sui Explorer](https://suiexplorer.com), drop a PR here [https://t.co/Cvn2LU12Cz](https://t.co/Cvn2LU12Cz)
 * `pysui` has now GraphQL support. Check it out [here](https://pysui.readthedocs.io/en/latest/graphql.html)
+* Sui's Rust SDK's docs are also available [online](https://mystenlabs.github.io/sui/sui_sdk/index.html) on MystenLabs' GitHub pages.
 
 ### Tools
-* Sui CLI offers new functionality to replay transactions. Check it out [here](https://docs.sui.io/references/cli/client#replay-a-transaction)
+* Sui CLI has a new command to replay transactions. Check it out [here](https://docs.sui.io/references/cli/client#replay-a-transaction)
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
