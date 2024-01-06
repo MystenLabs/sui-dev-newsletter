@@ -24,6 +24,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 * [Secure Your Web3 Private Keys](https://blog.sui.io/private-key-security/)
 * [Seven Projects Receive Over $260K in Sui Grants](https://blog.sui.io/dec-2023-grants-cohort/)
 * [Sui Commits 25 Million Tokens to Liquid Staking Protocols](https://blog.sui.io/liquid-staking-token-delegation/)
+* [Sui Closes in on 6,000 TPS as Inscriptions Surge](https://blog.sui.io/inscriptions-surge-6000-tps/)
 * [Sui DeFi Protocols Flourish in 2023](https://blog.sui.io/2023-defi-growth/)
 * [Sui Hits Major Growth Milestones in 2023](https://blog.sui.io/2023-growth-milestones/)
 * [Sui’s Biggest Gaming Wins of 2023](https://blog.sui.io/biggest-gaming-wins-2023/)
