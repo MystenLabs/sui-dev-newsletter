@@ -43,6 +43,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 * If you have open source Move code published on Sui mainnet or testnet, and want to see your verified source in the [Sui Explorer](https://suiexplorer.com), drop a PR here [https://t.co/Cvn2LU12Cz](https://t.co/Cvn2LU12Cz)
 * `pysui` has now GraphQL support. Check it out [here](https://pysui.readthedocs.io/en/latest/graphql.html)
 * Sui's Rust SDK's docs are also available [online](https://mystenlabs.github.io/sui/sui_sdk/index.html) on MystenLabs' GitHub pages.
+* Shinami has launched a new API for zkLogin - for more information, check out their [API docs](https://docs.shinami.com/reference/zklogin-wallet-api) and their Next.js [tutorial](https://docs.shinami.com/docs/zklogin-wallet-nextjs-tutorial) to help quickly build your first zkLogin app. 
 
 ### Tools
 * Sui CLI has a new command to replay transactions. Check it out [here](https://docs.sui.io/references/cli/client#replay-a-transaction)
