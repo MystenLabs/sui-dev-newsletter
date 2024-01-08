@@ -65,4 +65,4 @@ Many pull requests were merged in Dec'23. Check them out on [GitHub](https://git
 
 ### Releases
 
-Only one release, v1.15.0, was scheduled for the last month of 2023. Check out the [release schedule](https://sui.io/networkinfo) and the [most recent releases](https://github.com/MystenLabs/sui/releases).
+Two releases (v1.16.0 and v1.17.0) are scheduled for January 2024. Check out the [release schedule](https://sui.io/networkinfo) and the [most recent releases](https://github.com/MystenLabs/sui/releases).
