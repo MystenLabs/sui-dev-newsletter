@@ -54,10 +54,12 @@ Below is a list of all the open proposals as of now. To see the actual proposal 
 
 * [Add Poseidon hash SIP](https://github.com/sui-foundation/sips/pull/12)
 * [Add WebAuthn SIP](https://github.com/sui-foundation/sips/pull/9)
+* [Change private key import export to Bech32 encoding](https://github.com/sui-foundation/sips/pull/15)
 * [New struct MatchedOrderMetadata in DeepBook](https://github.com/sui-foundation/sips/pull/14)
 * [Typus Finance BigVector Implementation](https://github.com/sui-foundation/sips/pull/13)
 * [feat: added SIP Action Primitive](https://github.com/sui-foundation/sips/pull/11)
 * [multisig cache init](https://github.com/sui-foundation/sips/pull/10)
+
 
 ### Merged Pull Requests
 
