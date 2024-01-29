@@ -27,6 +27,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Development Experience on Sui
 
+* The [2024H1 Sui Developer Roadmap](https://forums.sui.io/t/sui-developer-roadmap-2024/45229) has been posted to the Sui Developer Announcements forum. 
 
 ### Tools
 
