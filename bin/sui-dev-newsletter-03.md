@@ -27,7 +27,8 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Development Experience on Sui
 
-* The [2024H1 Sui Developer Roadmap](https://forums.sui.io/t/sui-developer-roadmap-2024/45229) has been posted to the Sui Developer Announcements forum. 
+* The [2024H1 Sui Developer Roadmap](https://forums.sui.io/t/sui-developer-roadmap-2024/45229) has been posted to the Sui Developer Announcements forum.
+* We've added a [reference implementation for Asset Tokenization](https://docs.sui.io/guides/developer/advanced/asset-tokenization) to aid builders in representing real-world assets on-chain.
 
 ### Tools
 
