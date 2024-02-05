@@ -32,7 +32,7 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 * We've released a library for preventing the equivocation in owned objects which sometimes leads to those objects being locked for the remainder of an epoch, [Sui Owned Object Pools](https://forums.sui.io/t/sui-owned-object-pools-library/45215). `npm install suioop` to get started with it; for more details, refer to the [suioop documentation](https://www.npmjs.com/package/suioop).
 
 ### Tools
-
+* You can now install `Sui` tools using `brew install sui`. Check out the docs [here](https://docs.sui.io/guides/developer/getting-started/sui-install#install-homebrew) 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
