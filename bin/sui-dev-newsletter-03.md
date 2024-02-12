@@ -4,7 +4,7 @@ _Feb 14, 2024_
 
 Welcome to the third edition of the Sui Developer Newsletter. We are excited to welcome the launch of Sui RPC 2.0. At a high-level RPC 2.0 is a re-architecture and rewrite of Sui’s read, write, and subscription APIs (subscriptions coming in later release). While the goal is to eventually replace the old JSON-RPC, today we are at the point where an initial MVP implementation of RPC 2.0 is run by Mysten Labs as a public reference. This service is rate limited in a similar fashion to our existing RPC nodes. For more information, see the launch [forum post](https://forums.sui.io/t/launching-sui-graphql-rpc-service/45240) and the [docs](https://docs.sui.io/references/sui-graphql).
 
-We are also pleased to announce Sui Basecamp, the global Sui conference that will take place April 10-11 in Paris. Sui developer newsletter's subscribers can get a 50\% discount.
+We are pleased to announce Sui Basecamp, the global Sui conference that will take place April 10-11 in Paris. Sui developer newsletter's subscribers get a 50\% discount when using the code `sui-devnewsletter-50`. Looking forward to seeing many of you at this event.
 
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
