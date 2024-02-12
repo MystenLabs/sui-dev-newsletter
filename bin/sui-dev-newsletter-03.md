@@ -49,6 +49,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ### Tools
 * You can now install `Sui` tools using `brew install sui`. Check out the docs [here](https://docs.sui.io/guides/developer/getting-started/sui-install#install-homebrew) 
 * Check out the [sui-sniffer](https://www.app.kriya.finance/sui-sniffer/) tool built by [Kriya Finance](https://www.kriya.finance/)'s team
+* The [MultiSig toolkit](https://multisig-toolkit.mystenlabs.com/offline-signer) got some updates, such as now supporting the effects preview in the offline signer
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
