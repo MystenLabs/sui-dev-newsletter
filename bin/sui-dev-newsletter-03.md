@@ -16,7 +16,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 **News**
 * Sui's growth in DeFi metrics has been rapid, hitting [half a billion dollars](https://blog.sui.io/sui-500-million-tvl-top-10/) in total value locked in less than a year
-* The official [Sui webpage](https://sui.io) got a few updates. Check them out: [Intro to Sui](https://sui.io/intro-to-sui), [Move](https://sui.io/move), [zkLogin](https://sui.io/zklogin), and [Community and Events](https://sui.io/community-events-hub)
+* The official [Sui webpage](https://sui.io) got a few updates, including new pages: [Intro to Sui](https://sui.io/intro-to-sui), [Move](https://sui.io/move), [zkLogin](https://sui.io/zklogin), and [Community and Events](https://sui.io/community-events-hub)
 
 
 **Recent Blog & Social Media Posts**
