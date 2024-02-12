@@ -2,11 +2,11 @@
 
 _Feb 14, 2024_
 
-Welcome to the third edition of the Sui Developer Newsletter. We are excited to welcome the launch of Sui RPC 2.0. At a high-level RPC 2.0 is a re-architecture and rewrite of Sui’s read, write, and subscription APIs (subscriptions coming in later release). The goal is to eventually replace the old JSON-RPC. Today, we are at the point where an initial MVP implementation of RPC 2.0 is run by Mysten Labs as a public reference. This service is rate limited in a similar fashion to our existing RPC nodes. For more information, see the launch [forum post](https://forums.sui.io/t/launching-sui-graphql-rpc-service/45240).
+Welcome to the third edition of the Sui Developer Newsletter. We are excited to welcome the launch of Sui RPC 2.0. At a high-level RPC 2.0 is a re-architecture and rewrite of Sui’s read, write, and subscription APIs (subscriptions coming in later release). While the goal is to eventually replace the old JSON-RPC, today we are at the point where an initial MVP implementation of RPC 2.0 is run by Mysten Labs as a public reference. This service is rate limited in a similar fashion to our existing RPC nodes. For more information, see the launch [forum post](https://forums.sui.io/t/launching-sui-graphql-rpc-service/45240) and the [docs](https://docs.sui.io/references/sui-graphql).
 
-Finally, Sui Basecamp, the global Sui conference will take place April 10-11 in Paris, and it is now open for registration. Sui developer newsletter subscribers can get a 50\% discount.
+We are also pleased to announce Sui Basecamp, the global Sui conference that will take place April 10-11 in Paris. Sui developer newsletter's subscribers can get a 50\% discount.
 
-We're eager for your feedback on what you'd like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
+We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
 - Sui team
 
@@ -36,13 +36,13 @@ We're eager for your feedback on what you'd like to see in the newsletter--tag [
 
 ### Development Experience on Sui
 
-* The [2024H1 Sui Developer Roadmap](https://forums.sui.io/t/sui-developer-roadmap-2024/45229) was launched
+* The 2024H1 Sui Developer Roadmap is now available to the public and you can find it [here](https://forums.sui.io/t/sui-developer-roadmap-2024/45229)
 * [Reference implementation for Asset Tokenization](https://docs.sui.io/guides/developer/advanced/asset-tokenization) to aid builders in representing real-world assets on-chain
-* A library for preventing the equivocation in owned objects which sometimes leads to those objects being locked for the remainder of an epoch was released, [Sui Owned Object Pools](https://forums.sui.io/t/sui-owned-object-pools-library/45215). `npm install suioop` to get started with it; for more details, refer to the [suioop documentation](https://www.npmjs.com/package/suioop)
+* A library for preventing the equivocation in owned objects which sometimes leads to those objects being locked for the remainder of an epoch was released: [Sui Owned Object Pools](https://forums.sui.io/t/sui-owned-object-pools-library/45215). You can use `npm install suioop` to get started with it, and for more details, please refer to the [suioop documentation](https://www.npmjs.com/package/suioop)
 *  [Move Adds Enums and Macros in 2024 Edition](https://blog.sui.io/move-edition-2024-update/)
 * RPC 2.0 is now available for both [Mainnet](https://sui-mainnet.mystenlabs.com/graphql) and [Tesnet](https://sui-testnet.mystenlabs.com/graphql) as an MVP. See the annoucement [here](https://forums.sui.io/t/launching-sui-graphql-rpc-service/45240)
 * Sui's Coin DenyList, a shared object that the bearer of a DenyCap can access to specify a list of addresses that are unable to use a Sui core type, is now available on Devnet. Check out the docs [here](https://docs.sui.io/guides/developer/sui-101/create-coin#denylist) and [here](https://docs.sui.io/guides/developer/sui-101/create-coin#manipulate-deny-list)
-* Shared object deletion will be available on mainnet with the mid February release. Transfer to object is already available on mainnet.
+* Shared object deletion will be available on mainnet with the mid February release. Transfer to object is already available on [mainnet](https://blog.sui.io/transfer-to-object-mainnet-launch/)
 
 ### Tools
 * You can now install `Sui` tools using `brew install sui`. Check out the docs [here](https://docs.sui.io/guides/developer/getting-started/sui-install#install-homebrew) 
