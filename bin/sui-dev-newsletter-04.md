@@ -8,29 +8,22 @@ We are pleased to announce [Sui Overflow](https://sui.io/overflow), Sui's first 
 
 [Sui Basecamp](https://sui.io/basecamp), the global Sui conference will take place April 10-11 in Paris. Newsletter subscribers get a 50\% discount when using the code `sui-devnewsletter-50`. Looking forward to seeing many of you at this event.
 
+Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the [GitHub repository](https://github.com/MystenLabs/sui-dev-newsletter/). Check out the repository to find more information.
+
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
 - Sui team
 
 ## Community
 
-**News**
-
-
 **Recent Blog & Social Media Posts**
-* [5 Most Popular Wallets on Sui](https://blog.sui.io/5-most-popular-wallets/)
 * [AGSpeedy's AI to Grade Collectibles, Certify on Sui](https://blog.sui.io/agspeedy-collectibles-certificate/)
-* [All About Fiat On-Ramps](https://blog.sui.io/fiat-on-ramps-explained/)
-* [All About Stablecoins](https://blog.sui.io/stablecoins-explained/)
-* [At Over $500 Million TVL, Sui Lands in the DeFi Top 10](https://blog.sui.io/sui-500-million-tvl-top-10/)
 * [Become an Ambassador and Help Build the Sui Community](https://blog.sui.io/ambassador-program-launch/)
 * [Cost Efficiency, Composability, and Decentralization with Sui’s Liquid Staking](https://blog.sui.io/cost-efficiency-composability-and-decentralization-with-suis-liquid-staking/)
 * [Dacade’s Peer Learning Platform Launches Sui Course](https://blog.sui.io/dacade-launches-sui-course/)
 * [Enabling Zero Auth Downloads for Node Operators at a Tenth of the Cost](https://blog.sui.io/aws-s3-cloudflare-r2-snapshot/)
 * [How to get a SuiNS Name](https://blog.sui.io/how-to-get-suins-name/)
 * [Karrier One Builds Wireless Phone Service with Sui](https://blog.sui.io/karrier-one-decentralized-physical-infrastructure/)
-* [NAVI Leverages Silicon Valley Know-How for DeFi Success](https://blog.sui.io/navi-defi-technical-expertise/)
-* [New Blockchain Academy Coming to American University of Sharjah](https://blog.sui.io/aus-blockchain-academy-uae/)
 * [Shared Object Deletion Now Available On Sui](https://blog.sui.io/ephemeral-shared-objects/)
 * [Stardust Enables Game Builders on Sui](https://blog.sui.io/stardust-serves-web3-games-sui/)
 * [Sui Kiosk Demystified: Revolutionizing Digital Asset Transfers](https://blog.sui.io/kiosk-revolutionizing-digital-asset-transfers/)
@@ -40,13 +33,13 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
-**Let's Move Sui**: discover the new learning tool designed to quickly train developers new to Move, offering an engaging, user-friendly and intuitive learning experience. https://letsmovesui.com
+**[Let's Move Sui](https://letsmovesui.com)**: discover the new learning tool designed to quickly train developers new to Move, offering an engaging, user-friendly and intuitive learning experience.
+**[Move Bytecode Tempalte](https://www.npmjs.com/package/@mysten/move-bytecode-template)**: now coins and other generic types can be customized, named and published directly in the browser.
 
 ### Tools
 
-* Sui CLI has now support for writing and executing PTBs from terminal (`sui client ptb`). Check out the docs and examples [here](https://docs.sui.io/references/cli/ptb). 
+* Sui CLI has now support for writing and executing PTBs from terminal (`sui client ptb`). Check out the [docs and examples](https://docs.sui.io/references/cli/ptb). 
 * Check out this [web app](https://sui-tools.vercel.app/ptb-generator?network=testnet) that brings scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
-
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
