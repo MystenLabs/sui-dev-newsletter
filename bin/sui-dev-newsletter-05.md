@@ -1,4 +1,4 @@
-# Welcome to the Sui Developer Newsletter (#4)
+# Welcome to the Sui Developer Newsletter (#5)
 
 _April 15, 2024_
 
