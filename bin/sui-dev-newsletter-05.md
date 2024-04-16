@@ -3,6 +3,7 @@
 _April 15, 2024_
 
 Welcome to the latest edition of the Sui Developer Newsletter.
+We are thrilled to announce a new edition of the Move [book](https://move-book.com), which includes examples written in the new Move 2024 edition.
 
 [Sui Overflow](https://sui.io/overflow) is Sui's first global hackathon. Builders and devs from around the world will team up to push the boundaries of innovation on Sui across 8 tracks and compete for over $500k USD in SUI in prizes. Check the [website](https://sui.io/overflow) to register for updates and to learn more.
 
@@ -15,8 +16,9 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Community
 
 **Tutorials**
-[Sui CLI: How to Profile a Transaction Using the Gas Profiler ](https://www.youtube.com/watch?v=UhkaIiD4XHg)
-[ Sui CLI: Modify Blockchain State with Programmable Transaction Blocks (PTB)](https://www.youtube.com/watch?v=C7GmeL3cs4o)
+
+- [Sui CLI: How to Profile a Transaction Using the Gas Profiler ](https://www.youtube.com/watch?v=UhkaIiD4XHg)
+- [ Sui CLI: Modify Blockchain State with Programmable Transaction Blocks (PTB)](https://www.youtube.com/watch?v=C7GmeL3cs4o)
 
 **Recent Blog & Social Media Posts**
 
@@ -35,13 +37,13 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
+- The Move book has now been updated and it includes code written in the new Move 2024 edition. Check out the book [here](https://move-book.com/index.html).
 - Move 2024 is now the default Move edition. Check out this [blog post](https://blog.sui.io/move-2024-migration-guide/) for more details and the [docs](https://docs.sui.io/guides/developer/advanced/move-2024-migration) to learn more about how to migrate to the new edition.
 - VSCode Move Plugin has been updated to support the latest Move 2024 edition. Check out more details [here](https://forums.sui.io/t/move-2024-ide-support/45449) and install the plugin via [marketplace](https://marketplace.visualstudio.com/items?itemName=mysten.move).
 - The `verify-bytecode-meter` CLI command has received a few improvements:
   - every function and module that is verified is shown in the output table, which you can see [here](https://github.com/MystenLabs/sui/pull/16963).
   - added the `--modules` flag, enabling passing multiple module names to be verified. See more details [here](https://github.com/MystenLabs/sui/pull/16966).
   - added the `--module` flag, enabling to verify a single module. See more details [here](https://github.com/MystenLabs/sui/pull/16899).
-- The Move book has now been updated and it includes code written in the new Move 2024 edition. Check out the book [here](https://move-book.com/index.html).
 
 ### Tools
 
