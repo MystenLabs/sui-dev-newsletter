@@ -37,16 +37,21 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
-- The Move book has now been updated and it includes code written in the new Move 2024 edition. Check out the book [here](https://move-book.com/index.html).
+- The Move book has now been updated and it includes examples written in the new Move 2024 edition. Check out the book [here](https://move-book.com/index.html).
 - Move 2024 is now the default Move edition. Check out this [blog post](https://blog.sui.io/move-2024-migration-guide/) for more details and the [docs](https://docs.sui.io/guides/developer/advanced/move-2024-migration) to learn more about how to migrate to the new edition.
 - VSCode Move Plugin has been updated to support the latest Move 2024 edition. Check out more details [here](https://forums.sui.io/t/move-2024-ide-support/45449) and install the plugin via [marketplace](https://marketplace.visualstudio.com/items?itemName=mysten.move).
 - The `verify-bytecode-meter` CLI command has received a few improvements:
+
   - every function and module that is verified is shown in the output table, which you can see [here](https://github.com/MystenLabs/sui/pull/16963).
   - added the `--modules` flag, enabling passing multiple module names to be verified. See more details [here](https://github.com/MystenLabs/sui/pull/16966).
   - added the `--module` flag, enabling to verify a single module. See more details [here](https://github.com/MystenLabs/sui/pull/16899).
 
+- Enhanced BLS / ECCurve support in the Sui framework. Check out the [APIs](https://github.com/MystenLabs/sui/blob/main/crates/sui-framework/packages/sui-framework/sources/crypto/bls12381.move) and [examples](https://github.com/MystenLabs/sui/blob/main/sui_programmability/examples/crypto/sources/ec_ops.move).
+
 ### Tools
 
+- Sentio launched Sentio Dash and Sentio Debugger on Sui. Check out the announcement on [Twitter](https://twitter.com/sentioxyz/status/1778698440576213478) and [Medium](https://sentioxyz.medium.com/launch-of-sentio-dash-and-debugger-on-sui-01c82dfa8583).
+- Check out the [Decompiler for Move](https://github.com/verichains/revela) smart contracts from [Verichains](https://www.verichains.io/).
 - Sui Wallet mobile is now available in Google Play and Public Testflight for iOS. Check out more details [here](https://suiwallet.com/).
 
 ### Improvement Proposals (SIPs) - All Open SIPs
