@@ -15,10 +15,14 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ## Community
 
+**Presentations**
+
+- [Deep Dive into Move Advanced Concepts and Applications](https://www.youtube.com/watch?v=jRWwlZHNiKU)
+
 **Tutorials**
 
 - [Sui CLI: How to Profile a Transaction Using the Gas Profiler ](https://www.youtube.com/watch?v=UhkaIiD4XHg)
-- [ Sui CLI: Modify Blockchain State with Programmable Transaction Blocks (PTB)](https://www.youtube.com/watch?v=C7GmeL3cs4o)
+- [Sui CLI: Modify Blockchain State with Programmable Transaction Blocks (PTB)](https://www.youtube.com/watch?v=C7GmeL3cs4o)
 
 **Recent Blog & Social Media Posts**
 
@@ -29,6 +33,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 - [Enoki - Next generation customer experiences](https://mystenlabs.com/blog/enoki-next-generation-customer-experiences/)
 - [How Sui Primitives Revolutionize Onchain Gaming](https://blog.sui.io/sui-primitives-revolutionize-onchain-gaming/)
 - [Let's Move Sui Helps Developers who want to Move on Sui](https://blog.sui.io/lets-move-sui-launches/)
+- [Mysticeti Set to Supercharge Consensus on Sui](https://blog.sui.io/mysticeti-consensus-reduce-latency/)
 - [Scaling Out Sui Execution with Pilotfish](https://blog.sui.io/pilotfish-execution-scalability-blockchain/)
 - [Solend Team Launches New DeFi Protocol Suilend](https://blog.sui.io/solend-lending-protocol-suilend-launch/)
 - [Tencent Blockchain RPC Service Now Supports Sui](https://blog.sui.io/tencent-cloud-blockchain-rpc/)
