@@ -2,9 +2,9 @@
 
 _April 15, 2024_
 
-Welcome to the fifth edition of the Sui Developer Newsletter.
+Welcome to the latest edition of the Sui Developer Newsletter.
 
-We are pleased to announce [Sui Overflow](https://sui.io/overflow), Sui's first global hackathon. Builders and devs from around the world will team up to push the boundaries of innovation on Sui across 8 tracks and compete for over $500k USD in SUI in prizes. Check the website to register for updates and to learn more.
+[Sui Overflow](https://sui.io/overflow) is Sui's first global hackathon. Builders and devs from around the world will team up to push the boundaries of innovation on Sui across 8 tracks and compete for over $500k USD in SUI in prizes. Check the [website](https://sui.io/overflow) to register for updates and to learn more.
 
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the [GitHub repository](https://github.com/MystenLabs/sui-dev-newsletter/). Check out the repository to find more information.
 
@@ -16,19 +16,46 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 **Recent Blog & Social Media Posts**
 
+- [All About Digital Identity](https://blog.sui.io/digital-decentralized-identity-explained/)
+- [BRICK POP Demonstrates Fun Onchain Gameplay with Rewards](https://blog.sui.io/onbuff-brickpop-onchain-game/)
+- [Create and Execute PTBs on Sui with the Sui CLI](https://blog.sui.io/write-programmable-transaction-blocks-command-line-interface/)
+- [Dive into Sui Overflow: Sui’s First Global Hackathon](https://blog.sui.io/diving-into-sui-overflow/)
+- [Enoki - Next generation customer experiences](https://mystenlabs.com/blog/enoki-next-generation-customer-experiences/)
+- [How Sui Primitives Revolutionize Onchain Gaming](https://blog.sui.io/sui-primitives-revolutionize-onchain-gaming/)
+- [Let's Move Sui Helps Developers who want to Move on Sui](https://blog.sui.io/lets-move-sui-launches/)
+- [Scaling Out Sui Execution with Pilotfish](https://blog.sui.io/pilotfish-execution-scalability-blockchain/)
+- [Solend Team Launches New DeFi Protocol Suilend](https://blog.sui.io/solend-lending-protocol-suilend-launch/)
+- [Tencent Blockchain RPC Service Now Supports Sui](https://blog.sui.io/tencent-cloud-blockchain-rpc/)
+
 ## Development & Ecosystem
 
 ### Development Experience on Sui
 
+- Move 2024 is now the default Move edition. Check out this [blog post](https://blog.sui.io/move-2024-migration-guide/) for more details and the [docs](https://docs.sui.io/guides/developer/advanced/move-2024-migration) to learn more about how to migrate to the new edition.
+- VSCode Move Plugin has been updated to support the latest Move 2024 edition. Check out more details [here](https://forums.sui.io/t/move-2024-ide-support/45449) and install the plugin via [marketplace](https://marketplace.visualstudio.com/items?itemName=mysten.move).
+- The `verify-bytecode-meter` CLI command has received a few improvements:
+  - every function and module that is verified is shown in the output table, which you can see [here](https://github.com/MystenLabs/sui/pull/16963).
+  - added the `--modules` flag, enabling passing multiple module names to be verified. See more details [here](https://github.com/MystenLabs/sui/pull/16966).
+  - added the `--module` flag, enabling to verify a single module. See more details [here](https://github.com/MystenLabs/sui/pull/16899).
+- The Move book has now been updated and it includes code written in the new Move 2024 edition. Check out the book [here](https://move-book.com/index.html).
 
 ### Tools
 
+- Sui Wallet mobile is now available in Google Play and Public Testflight for iOS. Check out more details [here](https://suiwallet.com/).
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
 
-
+- [Add Soft Bundle API SIP for review](https://github.com/sui-foundation/sips/pull/19)
+- [Add WebAuthn SIP](https://github.com/sui-foundation/sips/pull/9)
+- [Dependency update check api](https://github.com/sui-foundation/sips/pull/18)
+- [More tx_context in Move Smart Contract](https://github.com/sui-foundation/sips/pull/16)
+- [New struct MatchedOrderMetadata in DeepBook](https://github.com/sui-foundation/sips/pull/14)
+- [Typus Finance BigVector Implementation](https://github.com/sui-foundation/sips/pull/13)
+- [Verification API](https://github.com/sui-foundation/sips/pull/17)
+- [feat: added SIP Action Primitive](https://github.com/sui-foundation/sips/pull/11)
+- [multisig cache init](https://github.com/sui-foundation/sips/pull/10)
 
 ### Merged Pull Requests
 
