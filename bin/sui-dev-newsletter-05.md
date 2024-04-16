@@ -14,6 +14,10 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ## Community
 
+**Tutorials**
+[Sui CLI: How to Profile a Transaction Using the Gas Profiler ](https://www.youtube.com/watch?v=UhkaIiD4XHg)
+[ Sui CLI: Modify Blockchain State with Programmable Transaction Blocks (PTB)](https://www.youtube.com/watch?v=C7GmeL3cs4o)
+
 **Recent Blog & Social Media Posts**
 
 - [All About Digital Identity](https://blog.sui.io/digital-decentralized-identity-explained/)
