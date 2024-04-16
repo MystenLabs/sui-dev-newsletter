@@ -50,6 +50,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools
 
+- Polymedia launched `CoinMeta`, a library for fetching coin metadata for Sui coins. Check out their repository [here](https://github.com/juzybits/polymedia-coinmeta).
 - Sentio launched Sentio Dash and Sentio Debugger on Sui. Check out the announcement on [Twitter](https://twitter.com/sentioxyz/status/1778698440576213478) and [Medium](https://sentioxyz.medium.com/launch-of-sentio-dash-and-debugger-on-sui-01c82dfa8583).
 - Check out the [Decompiler for Move](https://github.com/verichains/revela) smart contracts from [Verichains](https://www.verichains.io/).
 - Sui Wallet mobile is now available in Google Play and Public Testflight for iOS. Check out more details [here](https://suiwallet.com/).
