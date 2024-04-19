@@ -18,7 +18,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 **Tutorials**
 
 **Recent Blog & Social Media Posts**
-
+[SuiVision implemented package statistics on SuiVision.xyz! Now, on the package page, you can track and analyze the performance of each individual package](https://x.com/blockvisionhq/status/1781252037579362803)
 
 ## Development & Ecosystem
 
