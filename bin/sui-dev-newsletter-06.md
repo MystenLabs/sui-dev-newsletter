@@ -27,7 +27,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ### Tools
 
 [NFT Rental using Kiosk Apps](https://docs.sui.io/standards/kiosk-apps/nft-rental)
-
+BucketProtocol added a new feature to the SuiGPT tools: Gas Viewer. Check out the [announcement](https://twitter.com/Eason_C13/status/1782820345860227437?t=DVq8mO0oH2hW6PD41draAA&s=19) and the [tool](https://suigpt.tools/gas)
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
