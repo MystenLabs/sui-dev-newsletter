@@ -14,24 +14,29 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ## Community
 
+**Blog Posts**
+
+
 **Presentations**
-[Advice from Move pros | Jose Cerqueira & Thouny "Block Runner" at Sui Basecamp 2024](https://www.youtube.com/watch?v=Sg1VtJH-zds&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=33&pp=iAQB)
-[Building access control on Sui using "capabilities" | Manos Liolios at Sui Basecamp 2024](https://www.youtube.com/watch?v=nIAUkllpMwI&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=34&pp=iAQB)
-[Buckyou: the first game integrating zkSend | Justa Liang at Sui Basecamp 2024](https://www.youtube.com/watch?v=X7-OuPpz3Ug&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=31&pp=iAQB)
-[Data management & RPC 2.0 | Brandon Williams at Sui Basecamp 2024](https://www.youtube.com/watch?v=2PtpgYrduWs&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=25)
-[Dynamic gas: No SUI, no problem | Kevin Nelson at Sui Basecamp 2024](https://www.youtube.com/watch?v=Z22QT8g9d4E&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=32&pp=iAQB)
-[Move '24: the next evolution in Move | Tim Zakian at Sui Basecamp 2024](https://www.youtube.com/watch?v=fZfnLwVlQmM&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=28&pp=iAQB)
-[Native Bridge and SCION Network | Bradley Hall & Lu Zhang at Sui Basecamp 2024](https://www.youtube.com/watch?v=JTFYL_hfeB4&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=24&pp=iAQB)
-[Native randomness on Sui | Andrew Schran & Jian Lu at Sui Basecamp 2024](https://www.youtube.com/watch?v=xO1Lyem3PC8&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=37&pp=iAQB)
-[Sui builder panel: developer experience | Kuna Labs, Suilend & Scallop at Sui Basecamp 2024](https://www.youtube.com/watch?v=D6bamwa38ZY&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=30&pp=iAQB)
-[Sui congestion resilience | Mark Logan at Sui Basecamp 2024](https://www.youtube.com/watch?v=8SysLEpsXVE&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=26&pp=iAQB)
-[Sui speed: present and future | Tasos Kichidis & Arun Koshy at Sui Basecamp 2024](https://www.youtube.com/watch?v=uAA9RgXejUs&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=27&pp=iAQB)
-[The future of cryptography on Sui | Kostas Chalkias at Sui Basecamp 2024](https://www.youtube.com/watch?v=RrBTeRlxCp0&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=22&pp=iAQB)
+* [Advice from Move pros | Jose Cerqueira & Thouny "Block Runner" at Sui Basecamp 2024](https://www.youtube.com/watch?v=Sg1VtJH-zds&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=33&pp=iAQB)
+* [Building access control on Sui using "capabilities" | Manos Liolios at Sui Basecamp 2024](https://www.youtube.com/watch?v=nIAUkllpMwI&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=34&pp=iAQB)
+* [Buckyou: the first game integrating zkSend | Justa Liang at Sui Basecamp 2024](https://www.youtube.com/watch?v=X7-OuPpz3Ug&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=31&pp=iAQB)
+* [Data management & RPC 2.0 | Brandon Williams at Sui Basecamp 2024](https://www.youtube.com/watch?v=2PtpgYrduWs&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=25)
+* [Dynamic gas: No SUI, no problem | Kevin Nelson at Sui Basecamp 2024](https://www.youtube.com/watch?v=Z22QT8g9d4E&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=32&pp=iAQB)
+* [Move '24: the next evolution in Move | Tim Zakian at Sui Basecamp 2024](https://www.youtube.com/watch?v=fZfnLwVlQmM&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=28&pp=iAQB)
+* [Native Bridge and SCION Network | Bradley Hall & Lu Zhang at Sui Basecamp 2024](https://www.youtube.com/watch?v=JTFYL_hfeB4&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=24&pp=iAQB)
+* [Native randomness on Sui | Andrew Schran & Jian Lu at Sui Basecamp 2024](https://www.youtube.com/watch?v=xO1Lyem3PC8&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=37&pp=iAQB)
+* [Sui builder panel: developer experience | Kuna Labs, Suilend & Scallop at Sui Basecamp 2024](https://www.youtube.com/watch?v=D6bamwa38ZY&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=30&pp=iAQB)
+* [Sui congestion resilience | Mark Logan at Sui Basecamp 2024](https://www.youtube.com/watch?v=8SysLEpsXVE&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=26&pp=iAQB)
+* [Sui speed: present and future | Tasos Kichidis & Arun Koshy at Sui Basecamp 2024](https://www.youtube.com/watch?v=uAA9RgXejUs&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=27&pp=iAQB)
+* [The future of cryptography on Sui | Kostas Chalkias at Sui Basecamp 2024](https://www.youtube.com/watch?v=RrBTeRlxCp0&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=22&pp=iAQB)
 
 **Tutorials**
 
 **Recent Blog & Social Media Posts**
-[SuiVision implemented package statistics on SuiVision.xyz! Now, on the package page, you can track and analyze the performance of each individual package](https://x.com/blockvisionhq/status/1781252037579362803)
+* [DeepBook Demystified: Fueling DeFi Innovation in Sui](https://blog.sui.io/deepbook-demystified-fueling-defi-innovation/)
+* [Dive into Data and Debugging with Sentio on Sui](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
+* [SuiVision implemented package statistics on SuiVision.xyz! Now, on the package page, you can track and analyze the performance of each individual package](https://x.com/blockvisionhq/status/1781252037579362803)
 
 ## Development & Ecosystem
 
@@ -43,7 +48,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * A new version of the Sui GraphQL RPC was released and it is now available for all networks: `sui-network.mystenlabs.com/graphql` 
 
 ### Tools
-* Sentio launched Transaction Search and Overview. Check it out [here](https://docs.sentio.xyz/)
+* Sentio launched Transaction Search and Overview. Check it out [here](https://docs.sentio.xyz/) and this [blog post](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
 * MoveBit launched the WebIDE with many improvements. Check it out [here](https://ide.bitslab.xyz/)
 * [NFT Rental using Kiosk Apps](https://docs.sui.io/standards/kiosk-apps/nft-rental)
 * BucketProtocol added a new feature to the SuiGPT tools: Gas Viewer. Check out the [announcement](https://twitter.com/Eason_C13/status/1782820345860227437?t=DVq8mO0oH2hW6PD41draAA&s=19) and the [tool](https://suigpt.tools/gas)
