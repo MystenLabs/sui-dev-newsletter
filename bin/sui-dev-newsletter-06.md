@@ -43,7 +43,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 * Two new features in the Sui CLI: 
   * `--dry-run` is now available for all relevant commands
-  * Added automated gas budget estimation, which means that passing `--gas-budget` is now optional. Note that in this case the CLI will first do a dry run to estimate the gas budget.
+  * `--gas-budget` is now optional for all relevant commands. If the `gas-budget` is not passed, the CLI will first do a dry run to estimate the gas budget.
 * A new version of the Sui GraphQL RPC was released and it is now available for all networks: `sui-network.mystenlabs.com/graphql`
 * Blockvision has built a code decompiler that allows to see the source code of a Move package on the [SuiVision](https://suivision.xyz) explorer. Check out this [post](https://twitter.com/blockvisionhq/status/1783496649526198589)
 
