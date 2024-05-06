@@ -57,7 +57,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
 
-These SIPs are moving to final status soon, so this is your last chance for feedback: 
+These SIPs are moving to final status soon, so now it's a great time to share your feedback:
 * [SIP-16: Add more tx_context](https://github.com/sui-foundation/sips/pull/16)
 * [SIP-19: Soft Bundle API](https://github.com/sui-foundation/sips/pull/19)
 
