@@ -14,8 +14,6 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ## Community
 
-**Blog Posts**
-
 
 **Presentations**
 * [Advice from Move pros | Jose Cerqueira & Thouny "Block Runner" at Sui Basecamp 2024](https://www.youtube.com/watch?v=Sg1VtJH-zds&list=PL9t2y-BKvZBQMQfzDlOpLNDvqup8NBvpz&index=33&pp=iAQB)
@@ -37,6 +35,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * [DeepBook Demystified: Fueling DeFi Innovation in Sui](https://blog.sui.io/deepbook-demystified-fueling-defi-innovation/)
 * [Dive into Data and Debugging with Sentio on Sui](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
 * [SuiVision implemented package statistics on SuiVision.xyz! Now, on the package page, you can track and analyze the performance of each individual package](https://x.com/blockvisionhq/status/1781252037579362803)
+* [@rooter on Twitter showcasing the experience on building on Sui and Solana](https://twitter.com/0xrooter/status/1785971169906360466?t=YePsLccGG5SaMKTemRyq5g&s=19)
 
 ## Development & Ecosystem
 
@@ -45,7 +44,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * Two new features in the Sui CLI: 
   * `--dry-run` is now available for all relevant commands
   * Added automated gas budget estimation, which means that passing `--gas-budget` is now optional. Note that in this case the CLI will first do a dry run to estimate the gas budget.
-* A new version of the Sui GraphQL RPC was released and it is now available for all networks: `sui-network.mystenlabs.com/graphql` 
+* A new version of the Sui GraphQL RPC was released and it is now available for all networks: `sui-network.mystenlabs.com/graphql`
+* Blockvision has built a code decompiler that allows to see the source code of a Move package on the [SuiVision](https://suivision.xyz) explorer. Check out this [post](https://twitter.com/blockvisionhq/status/1783496649526198589)
 
 ### Tools
 * Sentio launched Transaction Search and Overview. Check it out [here](https://docs.sentio.xyz/) and this [blog post](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
