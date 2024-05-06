@@ -57,6 +57,14 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
 
+* [Native stake security](https://github.com/sui-foundation/sips/pull/20)
+* [SIP-10: MultiSig Cache Storage](https://github.com/sui-foundation/sips/pull/10)
+* [SIP-11: Action Primitive](https://github.com/sui-foundation/sips/pull/11)
+* [SIP-13: BigVector Implementation](https://github.com/sui-foundation/sips/pull/13)
+* [SIP-16: Add more tx_context](https://github.com/sui-foundation/sips/pull/16)
+* [SIP-19: Soft Bundle API](https://github.com/sui-foundation/sips/pull/19)
+* [SIP-9: WebAuthn signature scheme support](https://github.com/sui-foundation/sips/pull/9)
+* [add SIP-keypairs-des-128](https://github.com/sui-foundation/sips/pull/21)
 
 ### Merged Pull Requests
 
