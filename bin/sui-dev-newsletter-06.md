@@ -49,7 +49,6 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools
 * Sentio launched Transaction Search and Overview. Check it out [here](https://docs.sentio.xyz/) and this [blog post](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
-* MoveBit launched the WebIDE with many improvements. Check it out [here](https://ide.bitslab.xyz/)
 * [NFT Rental using Kiosk Apps](https://docs.sui.io/standards/kiosk-apps/nft-rental)
 * BucketProtocol added a new feature to the SuiGPT tools: Gas Viewer. Check out the [announcement](https://twitter.com/Eason_C13/status/1782820345860227437?t=DVq8mO0oH2hW6PD41draAA&s=19) and the [tool](https://suigpt.tools/gas)
 
