@@ -48,6 +48,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * Blockvision has built a code decompiler that allows to see the source code of a Move package on the [SuiVision](https://suivision.xyz) explorer. Check out this [post](https://twitter.com/blockvisionhq/status/1783496649526198589)
 
 ### Tools
+* YubiSui - create a Sui Wallet inside a yubikey and sign Sui transactions with it. Check out the repo [here](https://github.com/MystenLabs/yubigen)
 * Sentio launched Transaction Search and Overview. Check it out [here](https://docs.sentio.xyz/) and this [blog post](https://blog.sui.io/sentio-launch-data-and-debugging-tools/)
 * [NFT Rental using Kiosk Apps](https://docs.sui.io/standards/kiosk-apps/nft-rental)
 * BucketProtocol added a new feature to the SuiGPT tools: Gas Viewer. Check out the [announcement](https://twitter.com/Eason_C13/status/1782820345860227437?t=DVq8mO0oH2hW6PD41draAA&s=19) and the [tool](https://suigpt.tools/gas)
