@@ -30,7 +30,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools
 
-* [Local Sui Explorer](https://www.npmjs.com/package/sui-explorer-local) - a fork of Mysten Lab's Sui Explorer, adapted to the localnet and run through Docker. Built during the Sui Overflow hackathon.
+* [Local Sui Explorer](https://github.com/kkomelin/sui-explorer-local) - a fork of Mysten Lab's Sui Explorer, adapted to the localnet and run through Docker. Built during the Sui Overflow hackathon.
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
