@@ -30,6 +30,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools
 
+* [Local Sui Explorer](https://github.com/kkomelin/sui-explorer-local) - a fork of Mysten Lab's Sui Explorer, adapted to the localnet and run through Docker. Built during the Sui Overflow hackathon.
+
 ### Improvement Proposals (SIPs) - All Open SIPs
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
