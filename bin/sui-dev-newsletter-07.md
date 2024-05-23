@@ -30,7 +30,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools
 
-* [Sui dApp Starter](https://github.com/kkomelin/sui-dapp-starter) - a full-stack starter, focused on DX, includes integration with Suibase and Local Sui Explorer, and provides a Randomness-powered demo dapp and a set of helpful React primitives, such as useTransact, Balance, Faucet and others. Built during the Sui Overflow hackathon.
+* [Sui dApp Starter](https://sui-dapp-starter.dev/) - a full-stack starter, focused on DX, includes integration with Suibase and Local Sui Explorer, and provides a Randomness-powered demo dapp and a set of helpful React primitives, such as useTransact, Balance, Faucet and others. Built during the Sui Overflow hackathon.
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
