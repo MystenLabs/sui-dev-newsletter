@@ -34,7 +34,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * Polymedia released some Sui utilities for TypeScript, Node, and React. Check out their [repo](https://github.com/juzybits/polymedia-suitcase)
 * [Local Sui Explorer](https://github.com/kkomelin/sui-explorer-local) - a fork of Mysten Lab's Sui Explorer, adapted to the localnet and run through Docker. Built during the Sui Overflow hackathon.
 * [Sui dApp Starter](https://sui-dapp-starter.dev/) - a full-stack starter, focused on DX, includes integration with Suibase and Local Sui Explorer, and provides a Randomness-powered demo dapp and a set of helpful React primitives, such as useTransact, Balance, Faucet and others. Built during the Sui Overflow hackathon.
-
+* Try out this [demo app](https://enoki-example-app.vercel.app) that shows off the web2 industry-grade UX that is coming to the Sui network. It introduces two Enoki features: zkLogin and sponsored transaction. Check out the app's GitHub [repo](https://github.com/dantheman8300/enoki-example-app) to learn how to seamlessly integrate Enoki and these features into your Sui apps.
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
