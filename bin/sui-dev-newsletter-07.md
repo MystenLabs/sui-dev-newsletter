@@ -24,6 +24,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
+* Sui Typescript SDK v1.0 was released. Check out the migration guide: https://sdk.mystenlabs.com/typescript/migrations/sui-1.0
+
 * Move Enums are now available on `devnet`. Check out the [docs](ADD LINK HERE)
 * Move improvements:
   * you can use a random generator in Move tests, by instantiating `RandomGenerator` from a given seed or a random one. Find more details in this [PR #17204](https://github.com/MystenLabs/sui/pull/17204) 
