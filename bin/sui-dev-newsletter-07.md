@@ -28,7 +28,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 * Move Enums are now available on `devnet`. Check out the [docs](ADD LINK HERE)
 * Move improvements:
-  * you can use a random generator in Move tests, by instantiating `RandomGenerator` from a given seed or a random one. Find more details in this [PR #17204](https://github.com/MystenLabs/sui/pull/17204) 
+  * you can use a random generator in Move tests, by instantiating `RandomGenerator` from a given seed or a random one. Find more details in this [PR #17204](https://github.com/MystenLabs/sui/pull/17204)
+  * Move CLI allows you to specify the number of iterations to run each test that uses generated values. Find more details in this [PR #18701](https://github.com/MystenLabs/sui/pull/18071#pullrequestreview-2102658215)
   * introspection on emitted events in tests is now allowed. Find more details in this [PR #17699](https://github.com/MystenLabs/sui/pull/17699)
 
 ### Tools
