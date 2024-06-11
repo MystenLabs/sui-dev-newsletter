@@ -40,7 +40,7 @@ Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [http
 
 ## Development & Ecosystem
 ### Ecosystem
-* The [Sui Bridge](https://bridge.testnet.sui.io/?ref=blog.sui.io) has launched on testnet. See the [blog post](https://blog.sui.io/sui-bridge-live-on-testnet-with-incentives/) for more about the Bridge and the incentivized testnet. The [Sui bug bounty program](https://hackenproof.com/sui/sui-protocol?ref=blog.sui.io) has been expanded to include Sui Bridge.
+* The Sui Bridge has launched on testnet - [https://bridge.testnet.sui.io/](https://bridge.testnet.sui.io/). Read the blog post for more about the Bridge and the incentivized testnet [https://blog.sui.io/sui-bridge-live-on-testnet-with-incentives/](https://blog.sui.io/sui-bridge-live-on-testnet-with-incentives/). The Sui bug bounty program has been expanded to include Sui Bridge: [https://hackenproof.com/sui/sui-protocol](https://hackenproof.com/sui/sui-protocol)  
 
 ### Development Experience on Sui
 
