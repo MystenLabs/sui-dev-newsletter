@@ -39,6 +39,8 @@ Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [http
 * zkLogin Adds Multi-sig Recovery, Apple Credentials - [https://blog.sui.io/zklogin-apple-multi-sig-update/](https://blog.sui.io/zklogin-apple-multi-sig-update/)
 
 ## Development & Ecosystem
+### Ecosystem
+* The [Sui Bridge](https://bridge.testnet.sui.io/?ref=blog.sui.io) has launched on testnet. See the [blog post](https://blog.sui.io/sui-bridge-live-on-testnet-with-incentives/) for more about the Bridge and the incentivized testnet. The [Sui bug bounty program](https://hackenproof.com/sui/sui-protocol?ref=blog.sui.io) has been expanded to include Sui Bridge.
 
 ### Development Experience on Sui
 
