@@ -4,7 +4,7 @@ _June 12, 2024_
 
 Welcome to the seventh edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter).
 
-Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/). Check out the repository to find more information.
+Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
@@ -13,13 +13,16 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Community
 
 **Presentations**
+
 Getting Started with ZettaBlock and Sui Overflow DeFi Track - [https://www.youtube.com/watch?v=-Z1vEV4Ii1E](https://www.youtube.com/watch?v=-Z1vEV4Ii1E)
 Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [https://www.youtube.com/watch?v=_Nc9nBuiPsY](https://www.youtube.com/watch?v=_Nc9nBuiPsY)
 
 **Tutorials**
+
  How to fix InvalidBCSBytes Error for Integer Literal in PTB CLI - [https://www.youtube.com/watch?v=SEfo3YHBKnQ](https://www.youtube.com/watch?v=SEfo3YHBKnQ)
 
 **Recent Blog & Social Media Posts**
+
 * Atoma Enabling AI for Builders on Sui- [https://blog.sui.io/atoma-ai-artificial-intelligence-blockchain/](https://blog.sui.io/atoma-ai-artificial-intelligence-blockchain/)
 * Gas Friendly Post-Quantum Signatures With Truncator - [https://blog.sui.io/truncator-gas-friendly-post-quantum/](https://blog.sui.io/truncator-gas-friendly-post-quantum/)
 * How Sui Generis Bridges the Web3 Gap for Artists - [https://blog.sui.io/sui-generis-nft-art-action/](https://blog.sui.io/sui-generis-nft-art-action/)
@@ -40,7 +43,6 @@ Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [http
 ### Development Experience on Sui
 
 * Sui Typescript SDK v1.0 was released. Check out the migration guide: [https://sdk.mystenlabs.com/typescript/migrations/sui-1.0](https://sdk.mystenlabs.com/typescript/migrations/sui-1.0)
-
 * Move Enums are now available on `devnet`
 * Move improvements:
   * you can use a random generator in Move tests, by instantiating `RandomGenerator` from a given seed or a random one. Find more details in this PR: [https://github.com/MystenLabs/sui/pull/17204](https://github.com/MystenLabs/sui/pull/17204)
@@ -48,12 +50,13 @@ Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [http
   * introspection on emitted events in tests is now allowed. Find more details in this PR: [https://github.com/MystenLabs/sui/pull/17699](https://github.com/MystenLabs/sui/pull/17699)
   * It is no longer needed a code with `assert!` thanks to clever errors. Find more details in this PR: [https://github.com/MystenLabs/sui/pull/17882](https://github.com/MystenLabs/sui/pull/17882)
 
-### Tools
+### Tools by the Community
 
 * Polymedia released some Sui utilities for TypeScript, Node, and React. Check out their repo: [https://github.com/juzybits/polymedia-suitcase](https://github.com/juzybits/polymedia-suitcase)
 * A fork of Mysten Lab's Sui Explorer, adapted to the localnet and run through Docker. Built during the Sui Overflow hackathon. [https://github.com/kkomelin/sui-explorer-local](https://github.com/kkomelin/sui-explorer-local) 
-* A full-stack starter, focused on DX, includes integration with Suibase and Local Sui Explorer, and provides a Randomness-powered demo dapp and a set of helpful React primitives, such as useTransact, Balance, Faucet and others. Built during the Sui Overflow hackathon. [https://sui-dapp-starter.dev](https://sui-dapp-starter.dev)
-* An app that shows off the web2 industry-grade UX that is coming to the Sui network. It introduces two Enoki features: zkLogin and sponsored transaction. Try out the demo [https://enoki-example-app.vercel.app](https://enoki-example-app.vercel.app) and app's GitHub repo: [https://github.com/dantheman8300/enoki-example-app](https://github.com/dantheman8300/enoki-example-app) to learn how to seamlessly integrate Enoki and these features into your Sui apps.
+* A full-stack starter, focused on DX, includes integration with Suibase and Local Sui Explorer, and provides a Randomness-powered demo dapp and a set of helpful React primitives, such as useTransact, Balance, Faucet and others. Built during the Sui Overflow hackathon: [https://sui-dapp-starter.dev](https://sui-dapp-starter.dev)
+* An app that shows off the web2 industry-grade UX that is coming to the Sui network. It introduces two Enoki features: zkLogin and sponsored transaction. Try out the demo [https://enoki-example-app.vercel.app](https://enoki-example-app.vercel.app) and the app's GitHub repo: [https://github.com/dantheman8300/enoki-example-app](https://github.com/dantheman8300/enoki-example-app) to learn how to seamlessly integrate Enoki and these features into your Sui apps.
+* Move Studio IDE: a complete Sui development suite that allows you to write, compile, and deploy Move code. Check out the demo: [https://www.movestudio.dev/](https://www.movestudio.dev/) and the GitHub repo: [https://github.com/dantheman8300/move-studio](https://github.com/dantheman8300/move-studio)
 
 ### Improvement Proposals (SIPs) - All Open SIPs
 
