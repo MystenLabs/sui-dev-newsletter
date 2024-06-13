@@ -14,12 +14,13 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 **Presentations**
 
-Getting Started with ZettaBlock and Sui Overflow DeFi Track - [https://www.youtube.com/watch?v=-Z1vEV4Ii1E](https://www.youtube.com/watch?v=-Z1vEV4Ii1E)
-Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [https://www.youtube.com/watch?v=_Nc9nBuiPsY](https://www.youtube.com/watch?v=_Nc9nBuiPsY)
+* Getting Started with ZettaBlock and Sui Overflow DeFi Track - [https://www.youtube.com/watch?v=-Z1vEV4Ii1E](https://www.youtube.com/watch?v=-Z1vEV4Ii1E)
+* Join the Sui Overflow Hackathon and Win $5000 in Sui with BlockEden.xyz! - [https://www.youtube.com/watch?v=_Nc9nBuiPsY](https://www.youtube.com/watch?v=_Nc9nBuiPsY)
 
 **Tutorials**
 
- How to fix InvalidBCSBytes Error for Integer Literal in PTB CLI - [https://www.youtube.com/watch?v=SEfo3YHBKnQ](https://www.youtube.com/watch?v=SEfo3YHBKnQ)
+* How to fix InvalidBCSBytes Error for Integer Literal in PTB CLI - [https://www.youtube.com/watch?v=SEfo3YHBKnQ](https://www.youtube.com/watch?v=SEfo3YHBKnQ)
+* App Example: Implementing a Review Rating Platform for the Food Industry on Sui: [https://docs.sui.io/guides/developer/app-examples/reviews-rating](https://docs.sui.io/guides/developer/app-examples/reviews-rating)
 
 **Recent Blog & Social Media Posts**
 
