@@ -2,7 +2,7 @@
 
 _July 10, 2024_
 
-Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter).
+Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). Congratulations to the winners of the Sui Overflow Hackathon! We are excited to see the innovative projects that were built on Sui.
 
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
