@@ -2,7 +2,11 @@
 
 _July 10, 2024_
 
-Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). Congratulations to the winners of the Sui Overflow Hackathon! We are excited to see the innovative projects that were built on Sui.
+Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). 
+
+Congratulations to the winners of the Sui Overflow Hackathon! We are excited to see the innovative projects that were built on Sui. Find all the details in this blog post: [https://blog.sui.io/2024-sui-overflow-hackathon-winners](https://blog.sui.io/2024-sui-overflow-hackathon-winners).
+
+We are also proud to announce Walrus, a decentralized storage and data availability protocol. Check out more information in this blog post: [https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol](https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol).
 
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
@@ -11,12 +15,6 @@ We are eager for your feedback on what you would like to see in the newsletter--
 - Sui team
 
 ## Community
-
-**Presentations**
-
-
-**Tutorials**
-
 
 **Recent Blog & Social Media Posts**
 * [Access Crypto Market Data APIs on Sui with Birdeye](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/)
@@ -35,11 +33,11 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Ecosystem
 
+We are also proud to announce Walrus, a decentralized storage and data availability protocol. Check out more information in this blog post: [https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol](https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol).
+
 ### Development Experience on Sui
 
 Now you can call any Sui function from the explorer, including non-entry functions. See the announcement by [@juzybits](https://x.com/juzybits/status/1805581837281947923)
-
-### Tools by the Community
 
 ### Open Sui Improvement Proposals (SIPs)
 
