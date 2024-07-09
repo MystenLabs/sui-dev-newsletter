@@ -6,7 +6,7 @@ Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/
 
 Congratulations to the winners of the Sui Overflow Hackathon! We are excited to see the innovative projects that were built on Sui. Find all the details in this blog post: [https://blog.sui.io/2024-sui-overflow-hackathon-winners](https://blog.sui.io/2024-sui-overflow-hackathon-winners).
 
-We are also proud to announce Walrus, a decentralized storage and data availability protocol. Check out more information in this blog post: [https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol](https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol).
+Mysten Labs has announced Walrus Devnet, a decentralized storage and data availability protocol. Check out more information in this blog post: [https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol](https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol).
 
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
