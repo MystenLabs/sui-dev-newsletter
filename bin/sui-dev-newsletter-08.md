@@ -33,7 +33,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Ecosystem
 
-We are also proud to announce Walrus, a decentralized storage and data availability protocol. Check out more information in this blog post: [https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol](https://mystenlabs.com/blog/announcing-walrus-a-decentralized-storage-and-data-availability-protocol).
+Enoki is temporarily removing the ability to use Sponsored Transactions Public API Keys on Mainnet. Affected apps will need to update to use backend-enabled Private Keys to publish to mainnet. Mysten Labs hopes to bring back Public Keys in the future. Self-serve publishing (as well as subscription payments) are coming soon; email enoki-support@mystenlabs.com for more information.
 
 ### Development Experience on Sui
 
