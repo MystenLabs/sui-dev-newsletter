@@ -2,7 +2,7 @@
 
 _August 14, 2024_
 
-Welcome to the eigth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). 
+Welcome to the eighth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). 
 
 
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
@@ -21,6 +21,11 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 
 ### Development Experience on Sui
+
+
+### Tools by the Community
+
+* If you build custom Sui dApp Kit themes, check out the brand new theme creator by @kkomelin [sui-dapp-kit-theme-creator.app](https://sui-dapp-kit-theme-creator.app)
 
 
 ### Open Sui Improvement Proposals (SIPs)
