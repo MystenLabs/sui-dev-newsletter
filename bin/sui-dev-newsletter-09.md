@@ -22,6 +22,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
+* The Sui Typescript SDK is deprecating `WaitForLocalExecution`, which will be removed from JSON RPC on 9/18 in the 1.33 release. For more information and migration instructions, see the [Developer Announcements forum post](https://forums.sui.io/t/deprecating-waitforlocalexecution/45988). 
 
 ### Tools by the Community
 
