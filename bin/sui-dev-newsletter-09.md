@@ -48,6 +48,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Tools by the Community
 
+* [OpenDive](https://github.com/OpenDive) just released the Sui Unity SDK. This SDK is compatible with all platforms (iOS, Android, WebGL, Apple TV, Vision Pro,etc) and supports local transaction building. Check out the [GitHub repository](https://github.com/OpenDive/Sui-Unity-SDK).
 * If you build custom Sui dApp Kit themes, check out the brand new theme creator by [@kkomelin](https://twitter.com/kkomelin): [sui-dapp-kit-theme-creator.app](https://sui-dapp-kit-theme-creator.app)
 * SmartKit is a react library that allows your dapp to connect to the sui network in a simple way. Check out the [docs](https://smartkit.vercel.app/) and [GitHub repositry](https://github.com/heapup-tech/smartkit).
 * Mysten Labs developed a tool with a scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme. Check out the [GitHub repository](https://github.com/MystenLabs/minting-server).
