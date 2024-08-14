@@ -8,6 +8,12 @@ Mysten Labs launched the Breaking The Ice hackathon for Walrus. Check out more d
 Mysticeti, the new consensus protocol for Sui, has been running on mainnet for a while. Check out these Mysticeti blog posts to learn more:
 
 * [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
+* [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
+* [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
+* [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
+* [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
+* [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
+* [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
 * [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
 * [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
     
@@ -44,6 +50,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 * If you build custom Sui dApp Kit themes, check out the brand new theme creator by [@kkomelin](https://twitter.com/kkomelin): [sui-dapp-kit-theme-creator.app](https://sui-dapp-kit-theme-creator.app)
 * SmartKit is a react library that allows your dapp to connect to the sui network in a simple way. Check out the [docs](https://smartkit.vercel.app/) and [GitHub repositry](https://github.com/heapup-tech/smartkit).
+* Mysten Labs developed a tool with a scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme. Check out the [GitHub repository](https://github.com/MystenLabs/minting-server).
 
 ### Open Sui Improvement Proposals (SIPs)
 
