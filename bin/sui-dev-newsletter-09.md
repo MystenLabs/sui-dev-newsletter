@@ -8,14 +8,8 @@ Mysten Labs launched the Breaking The Ice hackathon for Walrus. Check out more d
 Mysticeti, the new consensus protocol for Sui, has been running on mainnet for a while. Check out these Mysticeti blog posts to learn more:
 
 * [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
-* [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
-* [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
 * [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
 * [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
-* [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
-* [George Danezis on Developing Mysticeti for Sui](https://blog.sui.io/mysticeti-consensus-innovation-george-danezis/)
-* [George Danezis on Mysticeti's Consensus Performance](https://blog.sui.io/mysticeti-consensus-performance-george-danezis/)
-* [George Danezis on Mysticeti's Throughput and Latency](https://blog.sui.io/mysticeti-latency-throughput-george-danezis/)
     
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
