@@ -2,7 +2,7 @@
 
 _August 14, 2024_
 
-Welcome to the ninth edition of the [Sui Developer Newsletter - [https://sui.io/dev-newsletter](https://sui.io/dev-newsletter). 
+Welcome to the ninth edition of the Sui Developer Newsletter - [https://dev.news.sui.io/archive/](https://dev.news.sui.io/archive/) 
 
 Mysten Labs launched the Breaking The Ice hackathon for Walrus. Check out more details and join the hackathon: [https://breakingtheice.walrus.site/](https://breakingtheice.walrus.site/).
 Mysticeti, the new consensus protocol for Sui, has been running on mainnet for a while. Check out these Mysticeti blog posts to learn more:
