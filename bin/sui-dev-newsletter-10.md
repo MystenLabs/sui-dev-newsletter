@@ -44,7 +44,20 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 Below is a list of all the open proposals as of now. To see the actual proposal text, click on the `Files Changed` tab. If you'd like, you can provide your input directly in the GitHub issue.
 
-
+* [Add Karrier One OpenID](https://github.com/sui-foundation/sips/pull/42)
+* [add sip for passkey session authenticator](https://github.com/sui-foundation/sips/pull/36)
+* [Credenza created sip-temporary_title.md](https://github.com/sui-foundation/sips/pull/41)
+* [SIP-21: Encrypt keypairs with aes-128 before storing them on disk.](https://github.com/sui-foundation/sips/pull/21)
+* [SIP-27: BLS-12381 Encryption Key Management for Non Private Key Wallet](https://github.com/sui-foundation/sips/pull/27)
+* [SIP-28: BLS-12381 Encryption Key Storage in Wallet](https://github.com/sui-foundation/sips/pull/28)
+* [SIP-29: BLS-12381 Encryption Public Key On-Chain Discoverability](https://github.com/sui-foundation/sips/pull/29)
+* [SIP-31: Fungible StakeSui objects](https://github.com/sui-foundation/sips/pull/31)
+* [SIP-33: Allow inactive StakedSui objects to be redeemed immediately](https://github.com/sui-foundation/sips/pull/33)
+* [SIP-34: Add FanTV as a zkLogin OpenID provider](https://github.com/sui-foundation/sips/pull/34)
+* [SIP-37: Exposing ProgrammableTransaction data in TxContext in Move](https://github.com/sui-foundation/sips/pull/37)
+* [SIP-39: Lowering the Validator Set Barrier to Entry](https://github.com/sui-foundation/sips/pull/39)
+* [SIP-40: Temporary freeze/unfreeze objects](https://github.com/sui-foundation/sips/pull/40)
+* [SIP: Introduction of Verifiable Delay Functions (VDFs) to Sui Framework](https://github.com/sui-foundation/sips/pull/38)
 
 ### Merged Pull Requests
 
