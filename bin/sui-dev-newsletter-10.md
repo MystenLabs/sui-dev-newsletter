@@ -14,6 +14,22 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Community
 
 **Recent Blog & Social Media Posts**
+* [All About Soulbound Tokens](https://blog.sui.io/soulbound-tokens-explained/)
+* [AUSD Stablecoin Now Live on Sui](https://blog.sui.io/ausd-stablecoin-live-on-sui/)
+* [SuiNS Achievements and Vision for the Future](https://blog.sui.io/suins-milestones-and-roadmap/)
+* [SuiPlay0X1, the Sui Gaming Handheld, Now Accepting Pre-Orders](https://blog.sui.io/suiplay0x1-handheld-game-preorders-begin/)
+* [All About Real World Assets](https://blog.sui.io/real-world-assets-explained/)
+* [Artfi Brings Blue-chip Art Investing to Sui](https://blog.sui.io/artfi-fine-art-investing/)
+* [Move 2024: Macro Functions Guide](https://blog.sui.io/move-2024-macros-beta/)
+* [DARKTIMES Brings Medieval Brawler Royale to Sui](https://blog.sui.io/darktimes-game-sui-launch/)
+* [Powered by DeepBook: Version 3 Builds on Success](https://blog.sui.io/deepbook-version-3/)
+* [From Concept to Implementation: Shared Custody on Sui](https://blog.sui.io/aftermath-shared-custody-object/)
+* [How to DeFi on Sui](https://blog.sui.io/how-to-defi-on-sui/)
+* [How to Stake on Sui](https://blog.sui.io/how-to-stake-on-sui/)
+* [Powered by DeepBook: Extending Sui's Liquidity Layer](https://blog.sui.io/deepbook-future-use-cases/)
+* [How to Get Started with Sui](https://blog.sui.io/how-to-get-started-with-sui/)
+* [Sui Bridge Test Delivers Bug Fixes and Insights](https://blog.sui.io/sui-bridge-incentive-program-results/)
+* [Dive into zkLogin’s Salt Server Architecture](https://blog.sui.io/zklogin-salt-server-architecture/)
 
 
 ## Development & Ecosystem
