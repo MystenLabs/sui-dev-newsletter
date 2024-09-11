@@ -4,6 +4,10 @@ _September 11, 2024_
 
 Welcome to the 10th edition of the Sui Developer Newsletter - [https://dev.news.sui.io/archive/](https://dev.news.sui.io/archive/) 
 
+SuiPlay0X1, the first web3 handheld gaming device, was announced at Korea Blockchain Week. For more, see our blog post: [https://blog.sui.io/suiplay0x1-handheld-game-preorders-begin/](https://blog.sui.io/suiplay0x1-handheld-game-preorders-begin/)
+
+The DeepBook Bug Bounty program is officially live, and we're calling all experts to help us strengthen DeepBook’s infrastructure. Earn up to $100k for identifying vulnerabilities:  [https://hackenproof.com/programs/sui-protocol](https://hackenproof.com/programs/sui-protocol).
+
     
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
@@ -36,9 +40,14 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
+* The zkSend SDK now supports building links for Testnet - for more, see https://sdk.mystenlabs.com/zksend/link-builder. 
+* Sui's GraphQL RPC will receive several improvements in the 1.33 release, including significantly increased performance (no more timeouts!), an increased page limit (to 50), and new queries for package upgrade history. 
+* Thouny has landed [to_string for Move number types](https://github.com/MystenLabs/sui/pull/19119). Thanks Thouny, we all appreciate it!
+
 
 ### Tools by the Community
 
+* Suibase's local network will soon default to creating a checkpoint once per second, rather than five times per second. This should make the Sui localnet slower at filling up your entire disk. To try it, check out suibase.io.
 
 ### Open Sui Improvement Proposals (SIPs)
 
