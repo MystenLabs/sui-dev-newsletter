@@ -8,6 +8,8 @@ SuiPlay0X1, the first web3 handheld gaming device, was announced at Korea Blockc
 
 The DeepBook Bug Bounty program is officially live, and we're calling all experts to help us strengthen DeepBook’s infrastructure. Earn up to $100k for identifying vulnerabilities:  [https://hackenproof.com/programs/sui-protocol](https://hackenproof.com/programs/sui-protocol).
 
+Announcing the [Awesome Sui repo](https://github.com/sui-foundation/awesome-sui), a new effort tracking all current developer tools in the Sui ecosystem maintained by Sui Foundation and the community, to help make it easier for Sui developers to find the right tools for the job.
+If you have a devtool for Sui that's not listed, submit a PR to add it!
     
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
