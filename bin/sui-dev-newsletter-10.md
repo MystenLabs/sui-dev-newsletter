@@ -8,9 +8,8 @@ SuiPlay0X1, the first web3 handheld gaming device, was announced at Korea Blockc
 
 The DeepBook Bug Bounty program is officially live, and we're calling all experts to help us strengthen DeepBook's infrastructure. Earn up to $100k for identifying vulnerabilities:  [https://hackenproof.com/programs/sui-protocol](https://hackenproof.com/programs/sui-protocol).
 
-Announcing the [Awesome Sui repo](https://github.com/sui-foundation/awesome-sui), a new effort tracking all current developer tools in the Sui ecosystem maintained by Sui Foundation and the community, to help make it easier for Sui developers to find the right tools for the job.
-If you have a devtool for Sui that's not listed, submit a PR to add it!
-    
+The first Walrus hackathon, Breaking the Ice, has completed, and we need your help picking the winner! Check out the projects at [community.breakingtheice.xyz](https://community.breakingtheice.xyz/) and vote for your favorites!
+   
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
@@ -42,6 +41,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ### Development Experience on Sui
 
+* Announcing the [Awesome Sui repo](https://github.com/sui-foundation/awesome-sui), a new effort tracking all current developer tools in the Sui ecosystem maintained by Sui Foundation and the community, to help make it easier for Sui developers to find the right tools for the job. If you have a devtool for Sui that's not listed, submit a PR to add it!
 * The zkSend SDK now supports building links for Testnet - for more, see https://sdk.mystenlabs.com/zksend/link-builder. 
 * Sui's GraphQL RPC will receive several improvements in the 1.33 release, including significantly increased performance (no more timeouts!), an increased page limit (to 50), and new queries for package upgrade history. 
 * Thouny has landed [to_string for Move number types](https://github.com/MystenLabs/sui/pull/19119). Thanks Thouny, we all appreciate it!
