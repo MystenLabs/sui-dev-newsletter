@@ -34,7 +34,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * [Powered by DeepBook: Extending Sui's Liquidity Layer](https://blog.sui.io/deepbook-future-use-cases/)
 * [How to Get Started with Sui](https://blog.sui.io/how-to-get-started-with-sui/)
 * [Sui Bridge Test Delivers Bug Fixes and Insights](https://blog.sui.io/sui-bridge-incentive-program-results/)
-* [Dive into zkLogin’s Salt Server Architecture](https://blog.sui.io/zklogin-salt-server-architecture/)
+* [Dive into zkLogin's Salt Server Architecture](https://blog.sui.io/zklogin-salt-server-architecture/)
 
 
 ## Development & Ecosystem
