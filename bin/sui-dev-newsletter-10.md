@@ -51,7 +51,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ### Tools by the Community
 
 * Suibase's local network will soon default to creating a checkpoint once per second, rather than five times per second. This should make the Sui localnet slower at filling up your entire disk. To try it, check out suibase.io.
-* [docs.sui.io](https://docs.sui.io) has a new Ask Sui AI button powered by [Cookbook.dev](https://cookbook.dev), offering a conversational interface to the Sui documentation.
+* [docs.sui.io](https://docs.sui.io) has a new Ask Sui AI button powered by Cookbook.dev, offering a conversational interface to the Sui documentation – research, plan, get answers, and troubleshoot. You can also find more resources at [www.cookbook.dev](https://www.cookbook.dev).
 
 ### Open Sui Improvement Proposals (SIPs)
 
