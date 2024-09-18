@@ -46,6 +46,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * Sui's GraphQL RPC will receive several improvements in the 1.33 release, including significantly increased performance (no more timeouts!), an increased page limit (to 50), and new queries for package upgrade history.
 * Thouny has landed [to_string for Move number types](https://github.com/MystenLabs/sui/pull/19119). Thanks Thouny, we all appreciate it!
 * Syntax highlighting for Move in GitHub is improved and fixed as it was not working for a short period of time. Module labels, enums, better constant highlighting (with special-casing EConsts) and other new cool features are in (see the [changelog](https://github.com/damirka/move-syntax/blob/main/CHANGELOG.md). Special thanks to [lildude](https://github.com/lildude) for helping fixing the [issue](https://github.com/github-linguist/linguist/issues/7034) in such a short time!
+* [Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) is a library that implements three most popular encoding schemes: HEX (Base16), Base64, and Urlencode, with the latter being useful in building [Data URLs](https://datatracker.ietf.org/doc/html/rfc2397) with the [%-encoding scheme](https://datatracker.ietf.org/doc/html/rfc3986).
 
 ### Tools by the Community
 
