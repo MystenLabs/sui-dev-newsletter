@@ -42,15 +42,15 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ### Development Experience on Sui
 
 * Announcing the [Awesome Sui repo](https://github.com/sui-foundation/awesome-sui), a new effort tracking all current developer tools in the Sui ecosystem maintained by Sui Foundation and the community, to help make it easier for Sui developers to find the right tools for the job. If you have a devtool for Sui that's not listed, submit a PR to add it!
-* The zkSend SDK now supports building links for Testnet - for more, see https://sdk.mystenlabs.com/zksend/link-builder. 
-* Sui's GraphQL RPC will receive several improvements in the 1.33 release, including significantly increased performance (no more timeouts!), an increased page limit (to 50), and new queries for package upgrade history. 
+* The zkSend SDK now supports building links for Testnet - for more, see https://sdk.mystenlabs.com/zksend/link-builder.
+* Sui's GraphQL RPC will receive several improvements in the 1.33 release, including significantly increased performance (no more timeouts!), an increased page limit (to 50), and new queries for package upgrade history.
 * Thouny has landed [to_string for Move number types](https://github.com/MystenLabs/sui/pull/19119). Thanks Thouny, we all appreciate it!
 
 
 ### Tools by the Community
 
 * Suibase's local network will soon default to creating a checkpoint once per second, rather than five times per second. This should make the Sui localnet slower at filling up your entire disk. To try it, check out suibase.io.
-* [docs.sui.io](https://docs.sui.io) has a new Ask Sui AI button powered by [Cookbook.dev](https://cookbook.dev), offering a conversational interface to the Sui documentation. 
+* [docs.sui.io](https://docs.sui.io) has a new Ask Sui AI button powered by [Cookbook.dev](https://cookbook.dev), offering a conversational interface to the Sui documentation.
 
 ### Open Sui Improvement Proposals (SIPs)
 
@@ -73,7 +73,7 @@ Below is a list of all the open proposals as of now. To see the actual proposal 
 
 ### Merged Pull Requests
 
-Many pull requests were merged since the [last newsletter](https://dev.news.sui.io/archive/edition-9). Check them out on [GitHub](https://github.com/search?q=is%3Apr%20-author%3Aapp%2Fsui-merge-bot%20org%3Amystenlabs%20repo%3Asui%20is%3Amerged%20merged%3A2024-08-14..2024-09-11&type=pullrequests).
+Many pull requests were merged since the last newsletter. Check them out on [GitHub](https://github.com/search?q=is%3Apr%20-author%3Aapp%2Fsui-merge-bot%20org%3Amystenlabs%20repo%3Asui%20is%3Amerged%20merged%3A2024-08-14..2024-09-17&type=pullrequests).
 
 ### Releases
 Several releases are scheduled for September 2024. Check out the release schedule: [https://sui.io/networkinfo](https://sui.io/networkinfo), and the latest releases: [https://github.com/MystenLabs/sui/releases](https://github.com/MystenLabs/sui/releases).
