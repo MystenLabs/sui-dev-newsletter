@@ -14,7 +14,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Community
 
 **Recent Blog & Social Media Posts**
-
+- Example of one-witness proof-based auth. This works with a "single" auth object for a given contract, as otherwise we'd also need a N:M capability check. [Github Gist](https://gist.github.com/manolisliolios/f43dd9a0f875eb73b28b155c7cf7eb3d), [X](https://x.com/PerelmanDmitri/status/1836554067130380676?t=b9-5tNYgInrb20J1_G-4dQ)
+- [X thread on Walrus whitepaper](https://x.com/LefKok/status/1836868240666153293?t=pzuqkEj1zf3IMJGONWfIJQ)
 
 ## Development & Ecosystem
 
