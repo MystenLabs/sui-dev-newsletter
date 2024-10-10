@@ -1,6 +1,6 @@
-# Welcome to the Sui Developer Newsletter (#9)
+# Welcome to the Sui Developer Newsletter (#11)
 
-_October 9, 2024_
+_October 16, 2024_
 
 Welcome to the 11th edition of the Sui Developer Newsletter 
 
@@ -20,6 +20,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Development & Ecosystem
 
 ### Development Experience on Sui
+- Sui has launched a number of stablecoins. Find more details here: [https://docs.sui.io/guides/developer/stablecoins](https://docs.sui.io/guides/developer/stablecoins)
 
 
 ### Tools by the Community
