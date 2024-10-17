@@ -4,13 +4,17 @@ _October 16, 2024_
 
 Welcome to the 11th edition of the Sui Developer Newsletter 
 
-Join the inaugural cohort of the Sui accelerator: Hydropower. Meet like-minded founders on the 8 week journey to help validate product market fit, utilize Sui tech, develop marketing plans and a sustainable business model, and discover the ins and out of fundraising. Learn from industry experts and take the opportunity to develop closer relationships with teams at Mysten Labs and Sui Foundation. Apply to the Hydropower Accelerator (https://hydropower.sui.io/) before Oct 14th. The inaugural cohort will kick off the week of Oct 21.
-   
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
 
 - Sui team
+
+## Announcements
+- Walrus Testnet is now live! See more details [here](https://docs.walrus.site/blog/04_testnet_update.html)
+- Join the inaugural cohort of the Sui accelerator: Hydropower. Meet like-minded founders on the 8 week journey to help validate product market fit, utilize Sui tech, develop marketing plans and a sustainable business model, and discover the ins and out of fundraising. Learn from industry experts and take the opportunity to develop closer relationships with teams at Mysten Labs and Sui Foundation. Apply to the [Hydropower Accelerator](https://hydropower.sui.io/) before Oct 14th. The inaugural cohort will kick off the week of Oct 21.
+- Sui is sponsoring Wormhole's latest hackathon - Sigma Sprint. You can register and submit your project until November 3rd! To find out more and to register, visit: [https://sigma.wormhole.com/join-sigma-sprint](https://sigma.wormhole.com/join-sigma-sprint) 
+
 
 ## Community
 
@@ -27,9 +31,6 @@ We are eager for your feedback on what you would like to see in the newsletter--
 - [Native USDC and Cross-Chain Transfer Protocol are Coming to Sui](https://blog.sui.io/usdc-circle-stablecoin-sui-launch/)
 
 ## Development & Ecosystem
-
-### Wormhole Sigma Sprint hackathon 
-- Sui is sponsoring a Wormhole's latest hackathon - Sigma Sprint. You can register and submit your project until November 3rd! To find out more and to register, visit: [https://sigma.wormhole.com/join-sigma-sprint](https://sigma.wormhole.com/join-sigma-sprint) 
 
 ### Development Experience on Sui
 - Sui has launched a number of stablecoins. Find more details here: [https://docs.sui.io/guides/developer/stablecoins](https://docs.sui.io/guides/developer/stablecoins)
