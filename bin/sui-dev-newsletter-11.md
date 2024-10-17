@@ -28,6 +28,9 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 ## Development & Ecosystem
 
+### Wormhole Sigma Sprint hackathon 
+- Sui is sponsoring a Wormhole's latest hackathon - Sigma Sprint. You can register and submit your project until November 3rd! To find out more and to register, visit: [https://sigma.wormhole.com/join-sigma-sprint](https://sigma.wormhole.com/join-sigma-sprint) 
+
 ### Development Experience on Sui
 - Sui has launched a number of stablecoins. Find more details here: [https://docs.sui.io/guides/developer/stablecoins](https://docs.sui.io/guides/developer/stablecoins)
 - Sui Bridge is now live on mainnet. Check out the main [website](https://bridge.sui.io/)
