@@ -10,6 +10,9 @@ We are eager for your feedback on what you would like to see in the newsletter--
 
 - Sui team
 
+## Announcements
+Due to the Thanksgiving and Christmas breaks, there is a different release schedule during the Thanksgiving week and the last two weeks of December. Check out the release schedule: [https://sui.io/networkinfo](https://sui.io/networkinfo).
+
 ## Community
 
 **Recent Blog & Social Media Posts**
