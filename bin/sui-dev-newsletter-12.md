@@ -52,11 +52,8 @@ Below is a list of all the open proposals as of now. To see the actual proposal 
 * [SIP-41: Add Credenza OpenID](https://github.com/sui-foundation/sips/pull/41)
 * [SIP-21: Encrypt keypairs with aes-128 before storing them on disk.](https://github.com/sui-foundation/sips/pull/21)
 * [SIP-31: Fungible StakeSui objects](https://github.com/sui-foundation/sips/pull/31)
-* [SIP-34: Add FanTV as a zkLogin OpenID provider](https://github.com/sui-foundation/sips/pull/34)
 * [SIP-37: Exposing ProgrammableTransaction data in TxContext in Move](https://github.com/sui-foundation/sips/pull/37)
 * [SIP-40: Temporary freeze/unfreeze objects](https://github.com/sui-foundation/sips/pull/40)
-* [SIP-42: Add Karrier One OpenID](https://github.com/sui-foundation/sips/pull/42)
-* [SIP-43: Add Arden OpenId Provider](https://github.com/sui-foundation/sips/pull/43)
 * [SIP: Introduction of Verifiable Delay Functions (VDFs) to Sui Framework](https://github.com/sui-foundation/sips/pull/38)
 * [add sip for passkey session authenticator](https://github.com/sui-foundation/sips/pull/36)
 
