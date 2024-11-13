@@ -40,7 +40,7 @@ Due to the Thanksgiving and Christmas breaks, there is a different release sched
 * [ray.so](https://ray.so/) has now support for Move syntax.
 * [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) is the Typescript SDK for interacting with 7k Aggregator protocol.
 * [Hop Aggregator SDK](https://docs.hop.ag/hop-sdk) is the Typescript SDK for interacting with Hop Aggregator.
-* [Scallop Sui Kit](https://github.com/scallop-io/sui-kit) is a toolkit for interacting with SUI Network in Typescript.
+* [Scallop Sui Kit](https://github.com/scallop-io/sui-kit) is a toolkit for interacting with Sui network in Typescript.
 
 ### Tools by the Community
 * [HoneyPotDetection](https://github.com/SuiSec/HoneyPotDetectionOnSui) library built by Pika.
