@@ -27,8 +27,8 @@ Due to the Thanksgiving and Christmas breaks, there is a different release sched
 
 **Presentations and Tutorials**
 * [Redefining Ownership with Sam Blackshear](https://www.youtube.com/watch?v=aTBCWpQbrlY)
-* [Path Towards an Interoperable Future: Axelar & Squid Are Coming to Sui ])(https://www.youtube.com/watch?v=CRX3xQHTzY4)
-* [Mysticeti: Perp Trading on Sui with Angelo Lovato and Nick Van Eck ](https://www.youtube.com/watch?v=y_h8FMb-N6E)
+* [Path Towards an Interoperable Future: Axelar & Squid Are Coming to Sui](https://www.youtube.com/watch?v=CRX3xQHTzY4)
+* [Mysticeti: Perp Trading on Sui with Angelo Lovato and Nick Van Eck](https://www.youtube.com/watch?v=y_h8FMb-N6E)
 * [Sui Network & Move Language: Sam Blackshear’s Guide to Next-Gen Web3 Security](https://www.youtube.com/watch?v=AJgB0qCrCGc)
 * [Sigma Sprint: Sui Workshop #1](https://www.youtube.com/watch?v=EP6EfaXcoE4)
 * [Sigma Sprint: Sui Workshop #2](https://www.youtube.com/watch?v=k0KJiD3vQz4)
