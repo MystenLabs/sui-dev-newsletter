@@ -22,6 +22,7 @@ Due to the Thanksgiving and Christmas breaks, there is a different release sched
 ## Development & Ecosystem
 
 ### Development Experience on Sui
+- Signing with a GCP KMS key using the TS SDK is now available. Check out the package on npm: [@mysten/signers](https://www.npmjs.com/package/@mysten/signers).
 
 ### Open Sui Improvement Proposals (SIPs)
 
