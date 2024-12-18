@@ -13,8 +13,8 @@ We are eager for your feedback on what you would like to see in the newsletter--
 ## Announcements
 - Due to the Thanksgiving and Christmas breaks, there is a different release schedule during the Thanksgiving week and the last two weeks of December. Check out the release schedule: [https://sui.io/networkinfo](https://sui.io/networkinfo).
 - Please migrate from using `checkpoints.[mainnet|testnet].sui.io` endpoints to: 
- - Testnet: `https://storage.googleapis.com/mysten-testnet-checkpoints`
- - Mainnet: `https://storage.googleapis.com/mysten-mainnet-checkpoints`
+  - Testnet: `https://storage.googleapis.com/mysten-testnet-checkpoints`
+  - Mainnet: `https://storage.googleapis.com/mysten-mainnet-checkpoints`
 
 ## Community
 
