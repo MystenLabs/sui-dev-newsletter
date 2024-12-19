@@ -4,6 +4,8 @@ _December 18, 2024_
 
 Welcome to the 13th edition of the Sui Developer Newsletter 
 
+We'd like to open this edition of the Newsletter by thanking each and every one of you for helping Sui maintain its position as the most active Move-based ecosystem in the [Electric Capital rankings](https://www.developerreport.com/ecosystems/sui). Whether you submitted your project or ecosystem directly, or just committed code, you are the beating heart of our ecosystem. You can find the full end-of-year Developer Report at [https://www.developerreport.com/developer-report](https://www.developerreport.com/developer-report).
+
 Do you want to showcase your tool, SDK, or other artifact that might be useful for developers building on Sui? We now accept submissions from the community through the GitHub repository: [https://github.com/MystenLabs/sui-dev-newsletter/](https://github.com/MystenLabs/sui-dev-newsletter/).
 
 We are eager for your feedback on what you would like to see in the newsletter--tag [@SuiFoundation](https://twitter.com/@SuiFoundation), join our [Discord](https://discord.gg/sui) community, or ask on the [developer forums](https://forums.sui.io/).
@@ -15,6 +17,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 - Please migrate from using `checkpoints.[mainnet|testnet].sui.io` endpoints to: 
   - Testnet: `https://storage.googleapis.com/mysten-testnet-checkpoints`
   - Mainnet: `https://storage.googleapis.com/mysten-mainnet-checkpoints`
+- We have released major improvements to the VSCode extensions for Sui development. See [our announcement post](https://forums.sui.io/t/announcing-significant-updates-to-sui-s-developer-tooling/46558) for more context or check out the extensions linked below.
 
 ## Community
 
@@ -43,7 +46,7 @@ We are eager for your feedback on what you would like to see in the newsletter--
 * [@mysten/signers](https://www.npmjs.com/package/@mysten/signers) is a TypeScript SDK library for signing with a GCP KMS key.
 * [ptb.studio](https://ptb.studio) is an online tool for creating and executing Programmable Transaction Blocks on Sui.
 * [Move Formatter](https://marketplace.visualstudio.com/items?itemName=mysten.prettier-move) is a Visual Studio Code extension for formatting Move code.
-* [Visualize Move VM traces extension](https://marketplace.visualstudio.com/items?itemName=mysten.move-trace-debug) is a DAP-style visualizer now available on Visual Studio Code.
+* [Move Trace Debugger](https://marketplace.visualstudio.com/items?itemName=mysten.move-trace-debug) is a DAP-style debugger for Move execution traces now available on Visual Studio Code.
 
 ### Open Sui Improvement Proposals (SIPs)
 
